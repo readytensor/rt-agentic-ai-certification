@@ -1,0 +1,7 @@
+Now, let's reinforce what you've learned with some reflection questions:
+
+1. How would you explain the difference between traditional AI systems and AI agents to someone with limited technical background?
+
+2. Think about your organization or industry, what specific tasks could benefit from AI agents? What would the implementation look like?
+
+3. The virtual assistance example we gave, what type multi-agent architecture does it have?
