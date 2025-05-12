@@ -1,0 +1,34 @@
+Ready Tensor Knowledge Base for RAG System  
+Comprehensive Overview Based on Documentation
+
+---
+
+1. Platform Overview
+- Core Mission: Democratize AI development through collaboration, transparency, and accessibility.
+- Key Features:
+  - Collaborative Workspace: Team-based environment for building, training, and deploying models.
+  - Integration: Supports Git (version control), MLflow (experiment tracking), and CI/CD pipelines.
+  - Model Registry: Central hub for managing model lifecycles (versioning, staging, retirement).
+  - Deployment: Options for real-time APIs, batch inference, and edge deployment.
+  - Monitoring: Track performance metrics, data drift, and model health.
+  - Security: Data encryption, access controls, and compliance with regulations (GDPR, HIPAA).
+
+---
+
+2. Publications System  
+Shareable AI assets to foster collaboration and reproducibility.
+
+2.1 Publication Types
+- Datasets: Structured data (e.g., CSV, Parquet) with metadata (schema, license, provenance).
+- Models: Pre-trained models with frameworks like TensorFlow/PyTorch, including evaluation metrics.
+- Workflows: Automated pipelines (e.g., data preprocessing, training) using tools like Airflow/Kubeflow.
+- Research: Peer-reviewed papers, technical reports, or blog posts with code/data.
+
+2.2 Creating Publications
+- Steps:
+  1. Define metadata (title, description, tags).
+  2. Upload assets (data, code, models).
+  3. Version using semantic versioning (e.g., v1.0.0).
+  4. Add documentation (usage examples, limitations).
+  5. Assign licenses (MIT, Apache, custom).
+- Best Practices: Use templates for consistency; include reproducibility checks.
