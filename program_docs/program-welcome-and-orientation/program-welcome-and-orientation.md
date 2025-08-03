@@ -65,36 +65,76 @@ Module 3 – Production-readiness and deployment
 
 --DIVIDER--
 
+## 🎓 Certification Pathways: Start Anywhere, Build Toward the Full Credential
+
+This program is designed to be flexible — you can start with any module that matches your interest or experience.
+
+Each module is independently certifiable. Complete its project and you'll earn a **micro-certificate**:
+
+- 🧠 Module 1 – **RAG Systems Expert**
+- 🤖 Module 2 – **Agentic AI Builder**
+- 🔒 Module 3 – **Agentic AI Engineer**
+
+When you complete all three modules, you'll unlock the **full program certificate** and earn the official title of **Agentic AI Expert** — along with a special badge on your profile.
+
+> Already know how to build with RAG? Skip ahead to Module 2. Prefer to focus on deployment? Start with Module 3. Just make sure to complete all three to earn the full credential.
+
+### ✅ Submitting Existing Work
+
+Already built a project that aligns with one of the modules? You can submit it — as long as it meets the certification requirements.
+
+For example, if you’ve previously built a RAG-powered chatbot or a multi-agent planner, you may be eligible for a Module 1 or 2 certificate. Just review the project requirements for the corresponding modules and ensure your submission includes:
+
+- Required components outlined in the module brief
+- Clean, documented code
+- A well-written Ready Tensor project publication
+
+> Your project doesn’t have to be new — it just has to meet the bar.
+
+---
+
+--DIVIDER--
+
 # 🛠️ How the Program Works (And How to Get the Most Out of It)
 
-This isn’t a lecture-first course. Instead, we give you projects, then let you figure things out, just like you would on the job.
+This isn’t a lecture-first course. It’s a build-first program — designed to mirror how real-world AI projects actually get done.
 
-You’ll have weekly content drops to guide you, but you’re free to learn at your own pace and in your own style. The goal is to **build**, not just watch and read.
+You’re not here to memorize theory. You’re here to **build**, with guidance, examples, and tools to support you along the way.
 
-Here’s how the weekly flow works:
+## All Lessons Are Available Upfront
 
-- 📅 **Lectures for the week** will be posted **before Monday**
-- 🎥 **Lecture videos** will be up by **Tuesday**
-- ❓ **Q/A video** (answering common questions from the previous week) also drops on **Tuesdays**
+All lessons across all 12 weeks are already unlocked. You can explore any topic, at any time — whether you're moving ahead early or circling back for a refresher.
 
- <h2> Important note: </h2>
- 
- The **videos won’t walk you through the lectures line by line**. Instead, we’ll highlight what to focus on, point out common pitfalls, and raise key questions to think about.
- We’re not here to spoon-feed you. We’re here to guide you, like a manager would guide their team.
- 
- So here’s our recommendation:
- 
- - Start with the project description
- - Finalize your project idea and team
- - Make a plan and divide the work
- - Learn what you need to get the job done
- - Use the lectures, tools, or any other resource you prefer
- - And just **build something great**
- 
- 🎥 **Watch this video** for a quick overview of how to approach the program and make the most of it.
- 
- :::youtube[Title]{#gV3xr6coF0s}
- 
+New lessons, updates, and improvements are added regularly based on feedback and evolving best practices. You’ll always have access to the latest material.
+
+---
+
+## How the Learning Works
+
+Each week is structured around a mix of:
+
+- 📘 **Lessons** that explain concepts clearly and practically
+- 🛠️ **Code examples and templates** to help you apply what you learn
+- 🎥 **Videos** with expert commentary, walkthroughs, and explanations
+
+The goal is to help you go from reading → to understanding → to building.
+
+You don’t have to follow a strict sequence — treat this like a flexible toolkit. Start with the project, then pull in what you need to get the job done.
+
+---
+
+## Our Recommended Approach
+
+- Start with the **project description** for the module
+- Finalize your idea and your team (3–4 people is ideal, solo is okay too)
+- Make a rough plan and divide the work
+- Use the materials to fill your knowledge gaps
+- Focus on building something real — not just watching or reading
+
+🎥 **Watch this video** for a quick overview of how to approach the program and get the most out of it:
+
+:::youtube[Title]{#gV3xr6coF0s}
+
 ---
 
 --DIVIDER--

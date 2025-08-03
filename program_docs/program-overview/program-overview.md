@@ -39,17 +39,57 @@ In addition to certificates, you’ll receive **four digital badges**—one for 
 
 ![main-certificate-and-badge-module.jpg](main-certificate-and-badge-module.jpg)
 
+---
+
+--DIVIDER--
+
+# Micro-Certifications & Program Flexibility
+
+This program is fully modular — you don’t need to follow the learning modules and lessons in order. If you already have experience with RAG, for example, you can jump straight into Module 2 and complete that project first.
+
+Each module leads to an independent **micro-certificate** and badge:
+
+- 🧠 **Module 1 – RAG Systems Expert**
+- 🤖 **Module 2 – Agentic AI Builder**
+- 🔒 **Module 3 – Agentic AI Engineer**
+
+You'll receive a certificate and digital badge upon completing each module’s project and meeting the requirements.
+
+## 🎓 Earn the Full Certification
+
+To become a fully certified **Agentic AI Expert**, you must:
+
+- Complete and submit all three module projects
+- Meet the 70% score threshold for each
+- Publish each project on the Ready Tensor platform with code and documentation
+
+This earns you:
+
+- ✅ All three micro-certificates
+- ✅ The official **Agentic AI Developer Certificate**
+- ✅ The “Agentic AI Expert” badge — displayed on your profile and sharable on LinkedIn
+
+---
+
 --DIVIDER--
 
 # How the Program Works
 
-This 12-week program is divided into three modules, each lasting four weeks. Each module culminates in a hands-on project that you will build and submit. Each week follows a consistent and engaging format:
+This 12-week program is structured into three modules, each designed to take about four weeks — but you're free to move faster or slower based on your schedule. Each module culminates in a hands-on project that can be completed at your own pace and submitted whenever you're ready for review.
 
-- **Weekly Lessons**: Essential readings, publications, and templates provided weekly to deepen your understanding and guide your projects. Some lessons include videos with quizzes, expert commentary, and code walkthroughs.
-- **Community Engagement**: Use [Discord](https://discord.gg/EsVfxNdUTR) for ongoing discussions, community Q\&A, and team collaboration.
-- **Project Submissions**: You’ll submit three main projects, one per module, individually or as part of a team (max 5 people).
-- **Project Reviews**: Each project is reviewed independently, so you can complete and submit modules at your own pace. Your submission will be evaluated in the next available cohort based on when you submit (see **Monthly Cohorts and Rolling Submissions** section below).
-- **Free Certification**: The certification program is completely free. All participants who complete the requirements for all 3 projects will receive an official **Agentic AI Developer Certificate**.
+Here’s how the program is structured:
+
+- **Learning Materials**: Lessons, code templates, and publications are organized by week to give structure — but everything is available upfront. Some lessons include walkthrough videos, quizzes, and expert commentary to guide your learning.
+
+- **Community Engagement**: Use [Discord](https://discord.gg/EsVfxNdUTR) for ongoing discussions, community Q\&A, team formation, and support.
+
+- **Project Submissions**: You’ll submit three main projects (one per module), either individually or as part of a team (max 5 people). You can submit projects in any order.
+
+- **Project Reviews**: Each project is reviewed independently. You’ll be evaluated in the next available review cycle based on your submission date (see **Project Submission & Evaluation Timeline** below).
+
+- **Free Certification**: The certification program is completely free. You’ll earn a certificate for each completed module, and the **Agentic AI Developer Certificate** when all three are complete.
+
+---
 
 --DIVIDER--
 
@@ -77,30 +117,44 @@ We recommend that you bookmark the page above.
 
 --DIVIDER--
 
-# Monthly Cohorts and Rolling Submissions
+# Project Submission & Evaluation Timeline
 
-This certification program follows a **monthly cohort model**. You can begin learning anytime, but your **project submission deadlines** determine which cohort you're part of.
+This program is flexible — you can start anytime and move through the modules at your own pace.
 
-To be evaluated in a given cohort, simply submit each module’s project by the listed due date.
+To help manage project reviews, we evaluate submissions in **monthly review cycles**.
 
-| Cohort Starting | Starts       | Module-1 Project Due | Module-2 Project Due | Module-3 Project Due |
-| --------------- | ------------ | -------------------- | -------------------- | -------------------- |
-| May 2025        | May 19, 2025 | Jun 13, 2025         | Jul 11, 2025         | Aug 08, 2025         |
-| June 2025       | Jun 16, 2025 | Jul 11, 2025         | Aug 08, 2025         | Sep 05, 2025         |
-| July 2025       | Jul 14, 2025 | Aug 08, 2025         | Sep 05, 2025         | Oct 03, 2025         |
-| Aug. 2025       | Aug 11, 2025 | Sep 05, 2025         | Oct 03, 2025         | Oct 31, 2025         |
-| Sept. 2025      | Sep 08, 2025 | Oct 03, 2025         | Oct 31, 2025         | Nov 28, 2025         |
-| Oct. 2025       | Oct 13, 2025 | Nov 07, 2025         | Dec 05, 2025         | Jan 02, 2026         |
+If you submit a project by one of the deadlines below, it will be reviewed in that month’s cycle. If you miss a deadline, no problem — your project will be evaluated in the next one.
+
+### 📅 Upcoming Evaluation Deadlines
+
+| Submission Deadline | Review Period Begins |
+| ------------------- | -------------------- |
+| August 8, 2025      | August 9, 2025       |
+| September 5, 2025   | September 6, 2025    |
+| October 3, 2025     | October 4, 2025      |
+| November 7, 2025    | November 8, 2025     |
+
+> ✅ You can submit **any module’s project** in any order. Submit one, two, or all three — your progress is tracked independently.
+
+### 🔍 Example
+
+If you submit your project on **August 22**, it will be included in the **September 6 review cycle** (based on the September 5 deadline). If you miss that, it rolls forward to the next one.
+
+---
 
 --DIVIDER--
 
 :::info{title="Info"}
 
- <h2>Missed Project Deadline? Submit in the Next Cohort</h2>
+ <h2>Missed Project Deadline? No Problem</h2>
  
-  If you miss a project deadline for your current cohort, you can still submit it by the next cohort’s due date and it will be reviewed in that cycle. You won’t lose your progress.
+ If you miss one of the listed submission deadlines, don’t worry — your project can still be submitted at any time. It will simply roll forward into the next monthly review cycle.
+ 
+ You won’t lose your work, your progress, or your eligibility. Every project is tracked independently.
  
  :::
+ 
+ ---
 
 --DIVIDER--
 
@@ -118,15 +172,17 @@ To earn your **Agentic AI Developer Certificate**, you must:
 
 - Achieve at least a **70% score per project** based on the evaluation criteria provided in the **AAIDC Project Evaluation Criteria.pdf**.
 
---DIVIDER--
-
 :::info{title="Project Reviews"}
 Each project is reviewed independently, so you can complete and submit modules at your own pace. Your submission will be evaluated in the next available cohort based on when you submit.
 :::
 
+---
+
 --DIVIDER--
 
 # Program Curriculum
+
+--DIVIDER--
 
  <h2>Module 1: Foundations of Agentic AI (Weeks 1–4)</h2>
  
