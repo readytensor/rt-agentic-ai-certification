@@ -126,7 +126,7 @@ Each project is reviewed independently, so you can complete and submit modules a
 
 --DIVIDER--
 
-# Program Curriculum--DIVIDER--
+# Program Curriculum
 
  <h2>Module 1: Foundations of Agentic AI (Weeks 1–4)</h2>
  
@@ -247,7 +247,6 @@ Each project is reviewed independently, so you can complete and submit modules a
  * Write professional documentation: architecture overview, deployment instructions, and maintenance guidance
  * Deliverable: A robust, portfolio-ready agentic AI system aligned with real-world engineering standards
  * _Note: Participants may begin final project work earlier during Weeks 10–11 if desired_
-
 
 --DIVIDER--
 
