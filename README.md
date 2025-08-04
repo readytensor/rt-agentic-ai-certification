@@ -24,8 +24,8 @@ This program is structured into **three comprehensive modules**, each culminatin
 - **Module 1 (Weeks 1–4): Foundations of Agentic AI**  
   Explore core concepts including agent architectures, retrieval-augmented generation (RAG), and tool use. You'll build your first project — a question-answering assistant powered by RAG.
 
-- **Module 2 (Weeks 5–8): Architecting Agentic Workflows**  
-  Build collaborative, tool-using AI systems. In this module, you’ll design dynamic agents, implement multi-agent workflows, and integrate external tools using protocols like MCP. Your project will showcase a working multi-agent system that solves a real problem through coordination and orchestration.
+- **Module 2 (Weeks 5–8): Architecting Multi-Agent Workflows**  
+  Build collaborative, tool-using agentic AI systems. In this module, you’ll design dynamic agents, implement multi-agent workflows, and integrate external tools using protocols like MCP. Your project will showcase a working multi-agent system that solves a real problem through coordination and orchestration.
 
 - **Module 3 (Weeks 9–12): Real-World Readiness**  
   Learn to test, secure, deploy, and monitor your agentic systems using guardrails, observability, and lightweight hosting. You’ll wrap up the program with a production-aware, portfolio-ready capstone project.
