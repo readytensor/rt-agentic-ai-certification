@@ -13,8 +13,8 @@ This program is structured into three comprehensive modules, each culminating in
 - **Module 1 (Weeks 1–4): Foundations of Agentic AI**
   Explore core concepts including agent architectures, retrieval-augmented generation (RAG), and tool use. You'll build your first project—a question-answering assistant.
 
-- **Module 2 (Weeks 5–8): Architecting Agentic Workflows**
-  Build collaborative, tool-using AI systems. In this module, you’ll design dynamic agents, implement multi-agent workflows, and integrate external tools using protocols like MCP. Your project will showcase a working multi-agent system that solves a real problem through coordination and orchestration.
+- **Module 2 (Weeks 5–8): Architecting Multi-Agent Systems**
+  Build collaborative, tool-using agentic AI systems. In this module, you’ll design dynamic agents, implement multi-agent workflows, and integrate external tools using protocols like MCP. Your project will showcase a working multi-agent system that solves a real problem through coordination and orchestration.
 
 - **Module 3 (Weeks 9–12): Real-World Readiness**
   Learn to test, secure, deploy, and monitor your agentic systems with guardrails, logging, and lightweight hosting. Finish with a production-grade, portfolio-ready final project.
@@ -23,7 +23,7 @@ This program is structured into three comprehensive modules, each culminating in
 
 # What You’ll Earn
 
-Participants who successfully complete the program will receive:
+Complete the program and earn credentials that prove your hands-on expertise:
 
 ## 🏆 Certificates of Completion
 
@@ -35,9 +35,23 @@ In addition to certificates, you’ll receive **four digital badges**—one for 
 
 > _Badges and certificates signal real-world, project-based competency in agentic AI systems._
 
-## 👇 Sample Certificate and Badge
+<h2> 👇 Sample Certificate and Badge </h2>
 
 ![main-certificate-and-badge-module.jpg](main-certificate-and-badge-module.jpg)
+
+## 💼 Real-World Portfolio Projects
+
+Every certified project you complete is published on the Ready Tensor platform — with documentation, code links, and a dedicated project page. These are professional-grade deliverables that you can share with employers, collaborators, and the broader AI community.
+
+> Your certification is more than a badge — it’s backed by public proof of work.
+
+---
+
+# Expert Review and Feedback
+
+When you submit your project, it’s not a one-shot pass/fail exam. Each submission is **independently reviewed by an expert**, with detailed feedback on what works, what can be improved, and how to level up your solution.
+
+You’re encouraged to iterate, refine your project, and **resubmit based on feedback** — just like in real-world AI development.
 
 ---
 
@@ -55,7 +69,7 @@ Each module leads to an independent **micro-certificate** and badge:
 
 You'll receive a certificate and digital badge upon completing each module’s project and meeting the requirements.
 
-## 🎓 Earn the Full Certification
+<h2> 🎓 Earn the Full Certification </h2>
 
 To become a fully certified **Agentic AI Expert**, you must:
 
@@ -85,7 +99,7 @@ Here’s how the program is structured:
 
 - **Project Submissions**: You’ll submit three main projects (one per module), either individually or as part of a team (max 5 people). You can submit projects in any order.
 
-- **Project Reviews**: Each project is reviewed independently. You’ll be evaluated in the next available review cycle based on your submission date (see **Project Submission & Evaluation Timeline** below).
+- **Expert Reviews**: Each project is reviewed independently. You’ll be evaluated in the next available review cycle based on your submission date (see **Project Submission & Evaluation Timeline** below).
 
 - **Free Certification**: The certification program is completely free. You’ll earn a certificate for each completed module, and the **Agentic AI Developer Certificate** when all three are complete.
 
@@ -100,6 +114,10 @@ Follow these steps to join the program:
 1.  **Register for a free account** on Ready Tensor (if you don't have one already). [Sign up here](https://app.readytensor.ai/signup).
 2.  **Enroll in the program** by visiting the [`Ready Tensor Certifications` hub](https://app.readytensor.ai/hubs/ready_tensor_certifications).
 3.  Click the “Join Hub” button at the top of the page. That's it - you are part of the program!
+
+Once you're in, the “Join Hub” button will disappear — that’s your confirmation you’re enrolled. You can now start exploring lessons and begin working on your first project.
+
+Don’t have teammates for your project yet? Join our [Discord](https://discord.gg/EsVfxNdUTR) and we’ll help you connect with others.
 
 --DIVIDER--
 
@@ -125,7 +143,7 @@ To help manage project reviews, we evaluate submissions in **monthly review cycl
 
 If you submit a project by one of the deadlines below, it will be reviewed in that month’s cycle. If you miss a deadline, no problem — your project will be evaluated in the next one.
 
-### 📅 Upcoming Evaluation Deadlines
+<h2> 📅 Upcoming Evaluation Deadlines  </h2>
 
 | Submission Deadline | Review Period Begins |
 | ------------------- | -------------------- |
@@ -136,7 +154,7 @@ If you submit a project by one of the deadlines below, it will be reviewed in th
 
 > ✅ You can submit **any module’s project** in any order. Submit one, two, or all three — your progress is tracked independently.
 
-### 🔍 Example
+<h2>🔍 Example </h2>
 
 If you submit your project on **August 22**, it will be included in the **September 6 review cycle** (based on the September 5 deadline). If you miss that, it rolls forward to the next one.
 
