@@ -104,6 +104,7 @@ You can view all lesson publications from this certification program on the Read
 | 1    |                     Real-World Applications of Agentic AI (AAIDC-Week1-Lesson-3)                     | https://app.readytensor.ai/publications/EbfPXrWQMeCh |
 | 1    |                        Agentic AI: Tools of the Trade (AAIDC-Week1-Lesson-4)                         | https://app.readytensor.ai/publications/hjbeURATH5ul |
 | 1    |                       Agentic AI: Agents vs. Workflows (AAIDC-Week1-Lesson-5)                        | https://app.readytensor.ai/publications/Xq3L2HSWLPou |
+| 2    |         Getting Started with Agentic AI: Free APIs and Local LLM Options (AAIDC-Week2-Setup)         | https://app.readytensor.ai/publications/HMONylFlvgvC |
 | 2    |                   Building Prompts for Agentic AI Systems (AAIDC-Week2-Lesson-1a)                    | https://app.readytensor.ai/publications/36Hu3DC3TLdu |
 | 2    |             Prompt Engineering: Advanced "Reasoning" Techniques (AAIDC-Week2-Lesson-1b)              | https://app.readytensor.ai/publications/3jI5t1hwF8wM |
 | 2    |                From Text to Data: Hands-On LLM Output Parsing (AAIDC-Week2-Lesson-2)                 | https://app.readytensor.ai/publications/LHMxs5Dtsv26 |
