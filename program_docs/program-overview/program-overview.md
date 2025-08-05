@@ -216,6 +216,7 @@ Each project is reviewed independently, so you can complete and submit modules a
  
  <h3>Week 2: Prompts, Embeddings and RAG </h3>
  
+ - Getting started with free API access and local LLMs
  - Basic prompting
  - Introduction to RAG systems
  - Vector databases and embedding models (FAISS, Chroma, etc.)
