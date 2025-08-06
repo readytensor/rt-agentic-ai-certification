@@ -117,11 +117,12 @@ Follow these steps to join the program:
 
 Once you're in, the “Join Hub” button will disappear — that’s your confirmation you’re enrolled. You can now start exploring lessons and begin working on your first project.
 
-Don’t have teammates for your project yet? Join our [Discord](https://discord.gg/EsVfxNdUTR) and we’ll help you connect with others.
-
---DIVIDER--
+> **IMPORTANT**: Do not skip steps 2 and 3. When you join the certifications hub, it lets us know you're in the program and helps us keep you in the loop with updates, reminders, and community announcements.
+> You already have access to the weekly lessons—joining the hub just makes sure you get all the program benefits.
 
 ---
+
+--DIVIDER--
 
 :::info{title="Info"}
 If you want to start with the lessons - you can find them here:
