@@ -4,14 +4,26 @@
 
 # 👋 Welcome to the Program!
 
-We’re so glad you’re here.
+We’re so glad you’re here! You’ve just joined the **Agentic AI Developer Certification Program** — the most comprehensive, free program on Agentic AI, designed to equip you with real-world skills for building autonomous, goal-driven AI systems. This is your opportunity to learn by doing, create portfolio-ready projects, and join a global community of innovators. We can’t wait to see what you’ll build!
 
-This is the first stop in your journey through the Agentic AI Developer Certification Program (AAIDC).
-Think of this page as your orientation hub: quick intro to the people, purpose, and plan behind what you’re about to experience.
+---
 
-Watch the videos below to get familiar with the team, understand why we built this program, and learn how to make the most of it.
+# 🚀 Start Here: Your First Steps
 
-Let’s get started. 🚀
+Here’s how to get moving right away:
+
+1. **Join the Community** – Connect with other participants in our [Discord](https://discord.gg/EsVfxNdUTR) for Q&A, team formation, and project discussions.
+2. **Pick Your First Module** – Most start with Module 1, but you can begin with any module that matches your skills or interests:
+   - [Module 1 Project Description: Your First RAG Assistant](https://app.readytensor.ai/publications/4n07ViGCey0l)
+   - [Module 2 Project Description: Build Your Multi-Agent System](https://app.readytensor.ai/publications/gUPu2RlgjzNy)
+   - [Module 3 Project Description: Productionize Your Agentic System](https://app.readytensor.ai/publications/DSYotKAAvcxy)
+3. **Browse the Lessons** – All lessons are available up front in the [Ready Tensor Certifications Hub](https://app.readytensor.ai/hubs/ready_tensor_certifications). Use them to fill in knowledge gaps while you work on your project. You can also find them anytime under the **Certifications** tab in the top menu.
+4. **Start Building** – Form a team (optional), divide the work, and begin your first build.
+
+> **Tip:** You earn a micro-certificate for each completed project. Finish all three to earn the full **Agentic AI Developer Certificate**.
+
+The steps above will get you started right away.  
+For a deeper look at the people, purpose, and plan behind this program — and tips on making the most of it — keep reading below.
 
 ---
 
