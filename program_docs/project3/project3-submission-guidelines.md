@@ -72,19 +72,17 @@ Your final project must demonstrate a production-ready version of the multi-agen
 
 :::info{title="🗓️ Submission Deadlines"}
 
-Your project will be reviewed in the cohort matching your submission date.
+Your project will be reviewed in the month matching your submission date.
 
 Submit by any one of the following:
 
 - ✅ August 11, 2025 — 11:59 PM UTC
 - ✅ September 05, 2025 — 11:59 PM UTC
 - ✅ October 03, 2025 — 11:59 PM UTC
-- ✅ October 31, 2025 — 11:59 PM UTC
-- ✅ November 28, 2025 — 11:59 PM UTC
-- ✅ December 26, 2025 — 11:59 PM UTC
-- ✅ January 23, 2026 — 11:59 PM UTC
+- ✅ November 03, 2025 — 11:59 PM UTC
+- ✅ December 01, 2025 — 11:59 PM UTC
 
-Missed this month's deadline? Just submit before the next and you'll be reviewed in that cycle.
+Missed this month's deadline? Just submit before the next and you'll be reviewed in that month's review cycle.
 
 :::
 

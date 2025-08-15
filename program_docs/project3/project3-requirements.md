@@ -120,23 +120,24 @@ Apply the enhancements listed under the **Required Components** section — incl
 
 --DIVIDER--
 
-:::info{title="Info"}
+:::info{title="Submission Deadlines"}
 
- <h2>Submission Deadlines</h2>
- Your Module 3 project will be reviewed in the cohort that matches your submission date. Submit your project by any one of the following deadlines:
- 
- - ✅ August 08, 2025 — 11:59 PM UTC
- - ✅ September 05, 2025 — 11:59 PM UTC
- - ✅ October 03, 2025 — 11:59 PM UTC
- - ✅ October 31, 2025 — 11:59 PM UTC
- - ✅ November 28, 2025 — 11:59 PM UTC
- - ✅ December 26, 2025 — 11:59 PM UTC
- - ✅ January 23, 2026 — 11:59 PM UTC
- 
- If you miss a date, just submit before the next one — your project will be reviewed in that cohort cycle.
- :::
- 
- ---
+Your Module 3 project will be reviewed in the cycle for the month corresponding to your submission date.  
+To be part of that month’s review, make sure to submit **on or before one of these dates**:
+
+- ✅ August 11, 2025 — 11:59 PM UTC
+- ✅ September 05, 2025 — 11:59 PM UTC
+- ✅ October 03, 2025 — 11:59 PM UTC
+- ✅ November 03, 2025 — 11:59 PM UTC
+- ✅ December 01, 2025 — 11:59 PM UTC
+
+Missed a date? You can still submit before the next deadline and your project will be included in that month’s review cycle.
+
+Reviews generally take up to **2 weeks** after the submission deadline, covering both reviewer feedback and any follow-up changes you provide.
+
+:::
+
+---
 
 --DIVIDER--
 

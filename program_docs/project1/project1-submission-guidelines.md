@@ -34,19 +34,16 @@ Before submitting, ensure your project meets these core requirements:
 
  <h2>Submission Deadlines ⏰</h2>
  
- Your project will be reviewed in the cohort that matches your submission date.  
+ Your project will be reviewed in the month that matches your submission date.  
  Submit your Project 1 by any one of the following deadlines:
+  
+ ✅ August 11, 2025 — 11:59 PM UTC  
+ ✅ September 05, 2025 — 11:59 PM UTC
+ ✅ October 03, 2025 — 11:59 PM UTC
+ ✅ November 03, 2025 — 11:59 PM UTC
+ ✅ December 01, 2025 — 11:59 PM UTC
  
- ✅ July 14, 2025 — 11:59 PM UTC _(extended from the original deadline of July 11)_  
- ✅ August 08, 2025 — 11:59 PM UTC  
- ✅ September 05, 2025 — 11:59 PM UTC  
- ✅ October 03, 2025 — 11:59 PM UTC  
- ✅ October 31, 2025 — 11:59 PM UTC  
- ✅ November 28, 2025 — 11:59 PM UTC  
- ✅ December 26, 2025 — 11:59 PM UTC  
- ✅ January 23, 2026 — 11:59 PM UTC  
- 
- If you miss the due date for the month, no problem — just submit before the next one and your project will be reviewed in that cohort cycle.
+ If you miss the due date for the month, no problem — just submit before the next one and your project will be reviewed in that month's review cycle.
  
  :::
  

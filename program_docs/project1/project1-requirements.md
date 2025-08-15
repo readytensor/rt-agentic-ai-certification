@@ -113,17 +113,18 @@ These are just a few starting points. Feel free to explore any use case that int
 
 :::info{title="Submission Deadlines"}
 
-Your Module 1 project will be reviewed in the cohort that matches your submission date. Submit your project by **any one of the following deadlines**:
+Module 1 projects are evaluated in the review cycle for the month in which they are submitted.  
+To be included in that month’s review, send in your project **no later than one of these dates**:
 
-- ✅ June 13, 2025 — 11:59 PM UTC
-- ✅ July 14, 2025 — 11:59 PM UTC
-- ✅ August 08, 2025 — 11:59 PM UTC
+- ✅ August 11, 2025 — 11:59 PM UTC
 - ✅ September 05, 2025 — 11:59 PM UTC
 - ✅ October 03, 2025 — 11:59 PM UTC
-- ✅ October 31, 2025 — 11:59 PM UTC
+- ✅ November 03, 2025 — 11:59 PM UTC
+- ✅ December 01, 2025 — 11:59 PM UTC
 
-If you miss a date, just submit before the next one — your project will be reviewed in the next cohort cycle.
+If you don’t meet a listed deadline, you can still submit before the next month’s date to be considered in that cycle.
 
+The review process usually takes up to **2 weeks** after the deadline, which includes receiving reviewer feedback and making any necessary updates.
 :::
 
 ---

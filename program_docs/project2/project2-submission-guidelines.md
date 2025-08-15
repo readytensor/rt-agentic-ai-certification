@@ -53,18 +53,15 @@ In this project, you'll apply everything you've learned in Module 2 to build a M
 
  <h2>Submission Deadline ⏰ </h2>
  
- Your Module 2 project will be reviewed in the cohort that matches your submission date. Submit your project by **any one of the following deadlines**:
+ Your Module 2 project will be reviewed in the month that matches your submission date. Submit your project by **any one of the following deadlines**:
  
- - ✅ July 14, 2025 — 11:59 PM UTC  _(extended from the original deadline of July 11)_
- - ✅ August 08, 2025 — 11:59 PM UTC  
- - ✅ September 05, 2025 — 11:59 PM UTC  
- - ✅ October 03, 2025 — 11:59 PM UTC  
- - ✅ October 31, 2025 — 11:59 PM UTC  
- - ✅ November 28, 2025 — 11:59 PM UTC  
- - ✅ December 26, 2025 — 11:59 PM UTC  
- - ✅ January 23, 2026 — 11:59 PM UTC  
+- ✅ August 11, 2025 — 11:59 PM UTC
+- ✅ September 05, 2025 — 11:59 PM UTC
+- ✅ October 03, 2025 — 11:59 PM UTC
+- ✅ November 03, 2025 — 11:59 PM UTC
+- ✅ December 01, 2025 — 11:59 PM UTC
  
- If you miss a date, just submit before the next one — your project will be reviewed in that cohort cycle.
+ If you miss a date, just submit before the next one — your project will be reviewed in that month's review cycle.
  
  :::
  
