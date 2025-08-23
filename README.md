@@ -30,6 +30,9 @@ This program is structured into **three comprehensive modules**, each culminatin
 - **Module 3 (Weeks 9–12): Real-World Readiness**  
   Learn to test, secure, deploy, and monitor your agentic systems using guardrails, observability, and lightweight hosting. You’ll wrap up the program with a production-aware, portfolio-ready capstone project.
 
+- **Module 4 (OPTIONAL): Advanced Topics**  
+  Explore advanced frameworks and strategies you’ll encounter in practice, including alternative SDKs and agent frameworks, context engineering, graph RAG, governance and fairness, advanced testing, and production monitoring. This module is not required for certification and has no project deliverables; lessons will roll out progressively.
+
 ---
 
 ## Project-Based Certification
@@ -174,6 +177,31 @@ You can view all lesson publications from this certification program on the Read
 
 ---
 
+### 📘 Module 4: Optional Advanced Topics
+
+These lessons explore advanced frameworks, strategies, and production concerns. They are **not required for certification**, and links will be added as lessons are released.
+
+| section                        | publication_title                                         | url                                                  |
+| ------------------------------ | --------------------------------------------------------- | ---------------------------------------------------- |
+| Alternative Frameworks & Tools | OpenAI Python SDK: Quickstart Tutorial with Code Examples | https://app.readytensor.ai/publications/iyQlDcuqY6kW |
+| Alternative Frameworks & Tools | OpenAI Agents SDK                                         | _Coming soon_                                        |
+| Alternative Frameworks & Tools | Crew AI                                                   | _Coming soon_                                        |
+| Alternative Frameworks & Tools | n8n                                                       | _Coming soon_                                        |
+| Alternative Frameworks & Tools | AutoGen                                                   | _Coming soon_                                        |
+| Alternative Frameworks & Tools | Pydantic AI & Other Tools                                 | _Coming soon_                                        |
+| Advanced Concepts              | Context Engineering Deep Dive                             | _Coming soon_                                        |
+| Advanced Concepts              | Vector DB Limitations & Graph RAG                         | _Coming soon_                                        |
+| Advanced Concepts              | Advanced Chunking Strategies                              | _Coming soon_                                        |
+| Advanced Concepts              | LLM Benchmarks & Leaderboards                             | _Coming soon_                                        |
+| Advanced Concepts              | Why Multi-Agent Systems Fail                              | _Coming soon_                                        |
+| Specialized Production         | AI Governance Frameworks                                  | _Coming soon_                                        |
+| Specialized Production         | Bias & Fairness in Agentic AI                             | _Coming soon_                                        |
+| Specialized Production         | Advanced Testing (TDD, Mocking)                           | _Coming soon_                                        |
+| Specialized Production         | Agent-to-Agent Communication                              | _Coming soon_                                        |
+| Specialized Production         | Advanced Monitoring with Portkey                          | _Coming soon_                                        |
+
+---
+
 ## Weekly Lesson Repositories
 
 Each week’s lesson content and code examples are maintained in a dedicated GitHub repository. These repos contain:
@@ -197,6 +225,15 @@ You can explore each week’s materials by visiting the corresponding repository
 | 11   | Monitoring, Debugging, Case Studies  | [Week 11 Repo](https://github.com/readytensor/rt-agentic-ai-cert-week11) |
 
 > 🧱 **Note:** Weeks 4, 8, and 12 are project-focused and do not have dedicated lesson repositories. Instead, you’ll find project requirements and submission instructions under [Program Resources and Instructions](#program-resources-and-instructions) in this README.
+
+**Module 4 (Optional) Section Repositories**  
+Module 4 is an optional, in-progress set of advanced topics. It has **no project requirements**, and repositories for each section will be added as lessons are released.
+
+| Section | Focus Area                     | Repository Link |
+| ------- | ------------------------------ | --------------- |
+| 1       | Alternative Frameworks & Tools | _Coming soon_   |
+| 2       | Advanced Concepts & Strategies | _Coming soon_   |
+| 3       | Specialized Production Topics  | _Coming soon_   |
 
 ---
 
