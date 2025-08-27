@@ -181,24 +181,24 @@ You can view all lesson publications from this certification program on the Read
 
 These lessons explore advanced frameworks, strategies, and production concerns. They are **not required for certification**, and links will be added as lessons are released.
 
-| section                        | publication_title                                         | url                                                  |
-| ------------------------------ | --------------------------------------------------------- | ---------------------------------------------------- |
-| Alternative Frameworks & Tools | OpenAI Python SDK: Quickstart Tutorial with Code Examples | https://app.readytensor.ai/publications/iyQlDcuqY6kW |
-| Alternative Frameworks & Tools | OpenAI Agents SDK                                         | _Coming soon_                                        |
-| Alternative Frameworks & Tools | Crew AI                                                   | _Coming soon_                                        |
-| Alternative Frameworks & Tools | n8n                                                       | _Coming soon_                                        |
-| Alternative Frameworks & Tools | AutoGen                                                   | _Coming soon_                                        |
-| Alternative Frameworks & Tools | Pydantic AI & Other Tools                                 | _Coming soon_                                        |
-| Advanced Concepts              | Context Engineering Deep Dive                             | _Coming soon_                                        |
-| Advanced Concepts              | Vector DB Limitations & Graph RAG                         | _Coming soon_                                        |
-| Advanced Concepts              | Advanced Chunking Strategies                              | _Coming soon_                                        |
-| Advanced Concepts              | LLM Benchmarks & Leaderboards                             | _Coming soon_                                        |
-| Advanced Concepts              | Why Multi-Agent Systems Fail                              | _Coming soon_                                        |
-| Specialized Production         | AI Governance Frameworks                                  | _Coming soon_                                        |
-| Specialized Production         | Bias & Fairness in Agentic AI                             | _Coming soon_                                        |
-| Specialized Production         | Advanced Testing (TDD, Mocking)                           | _Coming soon_                                        |
-| Specialized Production         | Agent-to-Agent Communication                              | _Coming soon_                                        |
-| Specialized Production         | Advanced Monitoring with Portkey                          | _Coming soon_                                        |
+| section                        | publication_title                                                  | url                                                  |
+| ------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------- |
+| Alternative Frameworks & Tools | OpenAI Python SDK: Quickstart Tutorial with Code Examples          | https://app.readytensor.ai/publications/iyQlDcuqY6kW |
+| Alternative Frameworks & Tools | OpenAI Agents SDK                                                  | _Coming soon_                                        |
+| Alternative Frameworks & Tools | Crew AI                                                            | _Coming soon_                                        |
+| Alternative Frameworks & Tools | n8n                                                                | _Coming soon_                                        |
+| Alternative Frameworks & Tools | AutoGen                                                            | _Coming soon_                                        |
+| Alternative Frameworks & Tools | Pydantic AI & Other Tools                                          | _Coming soon_                                        |
+| Advanced Concepts              | LLM Benchmarks and Leaderboards: A Practical Guide for AI Builders | https://app.readytensor.ai/publications/3TYo2lnKHu9c |
+| Advanced Concepts              | Context Engineering Deep Dive                                      | _Coming soon_                                        |
+| Advanced Concepts              | Vector DB Limitations & Graph RAG                                  | _Coming soon_                                        |
+| Advanced Concepts              | Advanced Chunking Strategies                                       | _Coming soon_                                        |
+| Advanced Concepts              | Why Multi-Agent Systems Fail                                       | _Coming soon_                                        |
+| Specialized Production         | AI Governance Frameworks                                           | _Coming soon_                                        |
+| Specialized Production         | Bias & Fairness in Agentic AI                                      | _Coming soon_                                        |
+| Specialized Production         | Advanced Testing (TDD, Mocking)                                    | _Coming soon_                                        |
+| Specialized Production         | Agent-to-Agent Communication                                       | _Coming soon_                                        |
+| Specialized Production         | Advanced Monitoring with Portkey                                   | _Coming soon_                                        |
 
 ---
 
