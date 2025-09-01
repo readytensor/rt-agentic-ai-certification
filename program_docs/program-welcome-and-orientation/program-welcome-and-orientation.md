@@ -12,7 +12,7 @@ We’re so glad you’re here! You’ve just joined the **Agentic AI Developer C
 
 Here’s how to get moving right away:
 
-1. **Check the Program Guide** – If you haven’t already, check the [Program Guide](https://app.readytensor.ai/publications/HrJ0xWtLzLNt). It details the curriculum, modules and their projects, and the certification process so you know exactly what to expect.
+1. **Check the Program Guide** – If you haven’t already, check the [Program Guide](https://app.readytensor.ai/publications/HrJ0xWtLzLNt). It details how to enroll and provides information related to the curriculum, modules, projects, and the certification process.
 2. **Join the Community** – Connect with other participants in our [Discord](https://discord.gg/EsVfxNdUTR) for Q\&A, team formation, and project discussions.
 3. **Pick Your First Module** – Most start with Module 1, but you can begin with any module that matches your skills or interests:
 
