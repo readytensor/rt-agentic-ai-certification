@@ -12,15 +12,16 @@ We’re so glad you’re here! You’ve just joined the **Agentic AI Developer C
 
 Here’s how to get moving right away:
 
-1. **Join the Community** – Connect with other participants in our [Discord](https://discord.gg/EsVfxNdUTR) for Q&A, team formation, and project discussions.
-2. **Pick Your First Module** – Most start with Module 1, but you can begin with any module that matches your skills or interests:
+1. **Check the Program Guide** – If you haven’t already, check the [Program Guide](https://app.readytensor.ai/publications/HrJ0xWtLzLNt). It details the curriculum, modules and their projects, and the certification process so you know exactly what to expect.
+2. **Join the Community** – Connect with other participants in our [Discord](https://discord.gg/EsVfxNdUTR) for Q\&A, team formation, and project discussions.
+3. **Pick Your First Module** – Most start with Module 1, but you can begin with any module that matches your skills or interests:
+
    - [Module 1 Project Description: Your First RAG Assistant](https://app.readytensor.ai/publications/4n07ViGCey0l)
    - [Module 2 Project Description: Build Your Multi-Agent System](https://app.readytensor.ai/publications/gUPu2RlgjzNy)
    - [Module 3 Project Description: Productionize Your Agentic System](https://app.readytensor.ai/publications/DSYotKAAvcxy)
-3. **Browse the Lessons** – All lessons are available up front in the [Ready Tensor Certifications Hub](https://app.readytensor.ai/hubs/ready_tensor_certifications). Use them to fill in knowledge gaps while you work on your project. You can also find them anytime under the **Certifications** tab in the top menu.
-4. **Start Building** – Form a team (optional), divide the work, and begin your first build.
 
-> **Tip:** You earn a micro-certificate for each completed project. Finish all three to earn the full **Agentic AI Developer Certificate**.
+4. **Browse the Lessons** – All lessons are available up front in the [Ready Tensor Certifications Hub](https://app.readytensor.ai/hubs/ready_tensor_certifications). Use them to fill in knowledge gaps while you work on your project. You can also find them anytime under the **Certifications** tab in the top menu.
+5. **Start Building** – Form a team (optional), divide the work, and begin your first build.
 
 The steps above will get you started right away.  
 For a deeper look at the people, purpose, and plan behind this program — and tips on making the most of it — keep reading below.
