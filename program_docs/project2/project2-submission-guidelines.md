@@ -55,11 +55,12 @@ In this project, you'll apply everything you've learned in Module 2 to build a M
  
  Your Module 2 project will be reviewed in the month that matches your submission date. Submit your project by **any one of the following deadlines**:
  
-- ✅ August 11, 2025 — 11:59 PM UTC
 - ✅ September 05, 2025 — 11:59 PM UTC
 - ✅ October 03, 2025 — 11:59 PM UTC
 - ✅ November 03, 2025 — 11:59 PM UTC
 - ✅ December 01, 2025 — 11:59 PM UTC
+- ✅ January 05, 2026 — 11:59 PM UTC
+- ✅ February 02, 2026 — 11:59 PM UTC
  
  If you miss a date, just submit before the next one — your project will be reviewed in that month's review cycle.
  
@@ -71,25 +72,41 @@ In this project, you'll apply everything you've learned in Module 2 to build a M
 
 # 🚀 Step-by-Step Submission Process
 
-**Step 1: Create Your Publication**  
+<h2>Before You Begin</h2>
+Make sure you’ve done the following:
+
+1. **Have a Ready Tensor account** – If you’re not already registered, [sign up here](https://app.readytensor.ai/signup).
+2. **Be enrolled in the program** – If you haven’t joined yet:
+
+   - Go to the [Certifications page](https://app.readytensor.ai/hubs/ready_tensor_certifications)
+   - Click **“Join Now”** near the top (next to the page title)
+   - You’ll be enrolled immediately.
+     _(If you don’t see the Join Now link, you’re already enrolled.)_
+
+<h3>Step 1: Create Your Publication </h3>
  The **team lead** creates a new publication on the Ready Tensor platform describing your multi-agent system project. Use the team lead’s personal hub for the publication.
 
-**Step 2: Add the Required Tag**  
- Add the tag `AAIDC-M2` to your publication to identify it as part of the certification program.
+<p align="center"><em>⚠️ Create the publication in the team lead's personal hub (not in the hub named `Ready Tensor Certifications`).</em></p>
 
-**Step 3: Add Co-Authors**  
+<h3>Step 2: Select the Module</h3>
+
+In the **Create Publication** form, choose the correct **Module** from the dropdown (i.e., `AAIDC - Module 2` for this project).
+
+- If you don’t see the dropdown, you’re not enrolled — see the instruction on how to enroll above.
+
+<h3>Step 3: Add Co-Authors </h3>
  Include all teammates as co-authors. The team lead will be listed as the first author.
 
-**Step 4: Link Your Code Repository**  
+<h3>Step 4: Link Your Code Repository </h3>
  Upload your GitHub repository URL in the "Code" section of the publication. Ensure your repository contains all code, configurations, and documentation needed to run the multi-agent system.
 
-**Step 5: Follow Best Practices**  
+<h3>Step 5: Follow Best Practices</h3>
  Adhere to Ready Tensor’s best practices for AI/ML project documentation and code repository management.
 
-**Step 6: Upload Supplementary Files**  
+<h3>Step 6: Upload Supplementary Files</h3>
  Optionally upload any additional files (e.g., diagrams, datasets, documentation) that support your submission.
 
-**Step 7: Final Review and Submit**  
+<h3>Step 7: Final Review and Submit</h3>
  Complete your submission before the deadline. Including a video demo of your multi-agent system is highly recommended to showcase its functionality and improve your portfolio.
 
 --DIVIDER--
@@ -103,7 +120,7 @@ You are encouraged to include a video demo of your app in your publication to en
 # 📝 Publication Requirements Checklist
 
 - [ ] Published on Ready Tensor platform
-- [ ] Includes the `AAIDC-M2` tag
+- [ ] Correct Module selected in the dropdown (i.e., `AAIDC - Module 2`)
 - [ ] Created by the team lead
 - [ ] All teammates added as co-authors
 - [ ] GitHub repository linked under the "Code" section
@@ -138,7 +155,7 @@ Please ensure that **API keys** and other sensitive information are not exposed 
 
 # 💡 Key Reminders
 
-- **Tag is mandatory**: Include **TBD** in your publication
+- **Module selection is mandatory:** Pick `AAIDC - Module 3` from the dropdown when creating your project.
 - **Team lead submits**: Only the team lead creates the publication
 - **Code must run**: Ensure your repository is fully functional and reproducible
 - **Meet quality standards**: Both publication and code must meet minimum quality thresholds

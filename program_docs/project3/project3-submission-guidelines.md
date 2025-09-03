@@ -76,11 +76,12 @@ Your project will be reviewed in the month matching your submission date.
 
 Submit by any one of the following:
 
-- ✅ August 11, 2025 — 11:59 PM UTC
 - ✅ September 05, 2025 — 11:59 PM UTC
 - ✅ October 03, 2025 — 11:59 PM UTC
 - ✅ November 03, 2025 — 11:59 PM UTC
 - ✅ December 01, 2025 — 11:59 PM UTC
+- ✅ January 05, 2026 — 11:59 PM UTC
+- ✅ February 02, 2026 — 11:59 PM UTC
 
 Missed this month's deadline? Just submit before the next and you'll be reviewed in that month's review cycle.
 
@@ -92,27 +93,43 @@ Missed this month's deadline? Just submit before the next and you'll be reviewed
 
 # 📦 Submission Process: Step-by-Step
 
-## Step 1: Create Your Publication
+<h2>Before You Begin</h2>
 
-Create a new publication in the **team lead’s** personal hub. This should be a detailed write-up of your final, production-grade system.
+Make sure you’ve done the following:
 
-## Step 2: Add the Required Tag
+1. **Have a Ready Tensor account** – If you’re not already registered, [sign up here](https://app.readytensor.ai/signup).
+2. **Be enrolled in the program** – If you haven’t joined yet:
 
-Tag the publication with `AAIDC-M3` to indicate it's a Module 3 capstone submission.
+   - Go to the [Certifications page](https://app.readytensor.ai/hubs/ready_tensor_certifications)
+   - Click **“Join Now”** near the top (next to the page title)
+   - You’ll be enrolled immediately.
+     _(If you don’t see the Join Now link, you’re already enrolled.)_
 
-## Step 3: Add Teammates
+<h3>Step 1: Create Your Publication </h3>
+
+Create a new publication in the **team lead’s** personal hub. This should be a detailed write-up of your final, production-grade system. Publication should be created by your team lead.
+
+<p align="center"><em>⚠️ Create the publication in the team lead's personal hub (not in the hub named `Ready Tensor Certifications`).</em></p>
+
+<h3>Step 2: Select the Module</h3>
+
+In the **Create Publication** form, choose the correct **Module** from the dropdown (i.e., `AAIDC - Module 3` for this project).
+
+- If you don’t see the dropdown, you’re not enrolled — see the instruction on how to enroll above.
+
+<h3>Step 3: Add Co-Authors </h3>
 
 Include all teammates as co-authors on the publication. The team lead should be listed first.
 
-## Step 4: Link Your Code
+<h3>Step 4: Link Your Code Repository </h3>
 
 Paste your GitHub repo URL in the “Code” section. Make sure it’s public and includes all files, tests, and documentation.
 
-## Step 5: Include a Demo (Recommended)
+<h3> Step 5: Include a Demo (Recommended) </h3>
 
 Upload a video demo to YouTube and embed the link in your publication. Walk through your app, explain how it works, and show key features.
 
-## Step 6: Final Review
+<h3> Step 6: Final Review and Publish </h3>
 
 Proofread everything. Test your app from scratch. Run your test suite. Then hit publish.
 
@@ -137,7 +154,7 @@ Upload to YouTube and link it in your Ready Tensor publication.
  <h2> Publication </h2>
  
  - [ ] Published on Ready Tensor
- - [ ] Includes `AAIDC-M3` tag
+ - [ ] Correct Module selected in the dropdown (i.e., `AAIDC - Module 3`)
  - [ ] Created by team lead
  - [ ] Co-authors added
  - [ ] Problem, architecture, UI, and safety enhancements documented
