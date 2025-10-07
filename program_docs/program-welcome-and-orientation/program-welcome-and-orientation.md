@@ -12,13 +12,13 @@ We’re so glad you’re here! You’ve just joined the **Agentic AI Developer C
 
 Here’s how to get moving right away:
 
-1. **Check the Program Guide** – If you haven’t already, check the [Program Guide](https://app.readytensor.ai/publications/HrJ0xWtLzLNt). It details how to enroll and provides information related to the curriculum, modules, projects, and the certification process.
+1. **Check the Program Guide** – If you haven’t already, check the [Program Guide](https://app.readytensor.ai/lessons/HrJ0xWtLzLNt). It details how to enroll and provides information related to the curriculum, modules, projects, and the certification process.
 2. **Join the Community** – Connect with other participants in our [Discord](https://discord.gg/EsVfxNdUTR) for Q\&A, team formation, and project discussions.
 3. **Pick Your First Module** – Most start with Module 1, but you can begin with any module that matches your skills or interests:
 
-   - [Module 1 Project Description: Your First RAG Assistant](https://app.readytensor.ai/publications/4n07ViGCey0l)
-   - [Module 2 Project Description: Build Your Multi-Agent System](https://app.readytensor.ai/publications/gUPu2RlgjzNy)
-   - [Module 3 Project Description: Productionize Your Agentic System](https://app.readytensor.ai/publications/DSYotKAAvcxy)
+   - [Module 1 Project Description: Your First RAG Assistant](https://app.readytensor.ai/lessons/4n07ViGCey0l)
+   - [Module 2 Project Description: Build Your Multi-Agent System](https://app.readytensor.ai/lessons/gUPu2RlgjzNy)
+   - [Module 3 Project Description: Productionize Your Agentic System](https://app.readytensor.ai/lessons/DSYotKAAvcxy)
 
 4. **Browse the Lessons** – All lessons are available up front in the [Ready Tensor Certifications Hub](https://app.readytensor.ai/hubs/ready_tensor_certifications). Use them to fill in knowledge gaps while you work on your project. You can also find them anytime under the **Certifications** tab in the top menu.
 5. **Start Building** – Form a team (optional), divide the work, and begin your first build.
@@ -185,6 +185,6 @@ Let’s get to work.
 
 ---
 
-[➡️ Next - Module 1 Project Description](https://app.readytensor.ai/publications/4n07ViGCey0l)
+[➡️ Next - Module 1 Project Description](https://app.readytensor.ai/lessons/4n07ViGCey0l)
 
 ---

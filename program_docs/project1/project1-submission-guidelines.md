@@ -6,8 +6,8 @@
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - RAG Implementation](https://app.readytensor.ai/publications/IBOMURRgN8Dn)
-[➡️ Next - Module 2 Project Requirements](https://app.readytensor.ai/publications/gUPu2RlgjzNy)
+[⬅️ Previous - RAG Implementation](https://app.readytensor.ai/lessons/IBOMURRgN8Dn)
+[➡️ Next - Module 2 Project Requirements](https://app.readytensor.ai/lessons/gUPu2RlgjzNy)
 
 ---
 
@@ -135,7 +135,7 @@ Your GitHub repository must:
 - Follow best practices for AI/ML code development (see our published guidelines)
 - Be reproducible and runnable locally by our evaluation team
 - Include clear setup instructions, sample inputs, and expected outputs
-- Score 70% or higher on our [repository evaluation rubric](https://app.readytensor.ai/publications/0llldKKtn8Xb)
+- Score 70% or higher on our [repository evaluation rubric](https://app.readytensor.ai/lessons/0llldKKtn8Xb)
 
 :::warning{title="Warning"}
 Please ensure that **API keys** and other sensitive information are not exposed in your main GitHub repository or shared publicly. Instead, store such data in a .env file and make sure it is included in your .gitignore to prevent accidental uploads. For reproducibility, you should provide a .env_example file that outlines the required environment variables without revealing any real values. This practice helps maintain security while allowing others to understand how to set up the project properly. Thank you for following secure development practices.
@@ -180,9 +180,9 @@ If you have questions about the submission process or need technical assistance,
 
 # 📚 Additional Resources
 
-- [Repository Best Practices Guide](https://app.readytensor.ai/publications/0llldKKtn8Xb)
-- [Technical Publication Rubric](https://app.readytensor.ai/publications/WsaE5uxLBqnH)
-- [Ready Tensor Publication Best Practices](https://app.readytensor.ai/publications/SBgkOyUsP8qQ)
+- [Repository Best Practices Guide](https://app.readytensor.ai/lessons/0llldKKtn8Xb)
+- [Technical Publication Rubric](https://app.readytensor.ai/lessons/WsaE5uxLBqnH)
+- [Ready Tensor Publication Best Practices](https://app.readytensor.ai/lessons/SBgkOyUsP8qQ)
 
 Good luck with your Project 1 submission! We're excited to see the RAG-based AI assistants you've built using the foundations from Module 1.
 
@@ -192,7 +192,7 @@ Good luck with your Project 1 submission! We're excited to see the RAG-based AI 
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - RAG Implementation](https://app.readytensor.ai/publications/IBOMURRgN8Dn)
-[➡️ Next - Module 2 Project Requirements](https://app.readytensor.ai/publications/gUPu2RlgjzNy)
+[⬅️ Previous - RAG Implementation](https://app.readytensor.ai/lessons/IBOMURRgN8Dn)
+[➡️ Next - Module 2 Project Requirements](https://app.readytensor.ai/lessons/gUPu2RlgjzNy)
 
 ---

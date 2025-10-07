@@ -6,8 +6,8 @@
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - A3 System Evaluation - Case Study](https://app.readytensor.ai/publications/t6q6c0SSuM0W)  
- [➡️ Next - Week 9 Preview](https://app.readytensor.ai/publications/h4GLp8hyNZDt)
+[⬅️ Previous - A3 System Evaluation - Case Study](https://app.readytensor.ai/lessons/t6q6c0SSuM0W)  
+ [➡️ Next - Week 9 Preview](https://app.readytensor.ai/lessons/h4GLp8hyNZDt)
 
 ---
 
@@ -43,7 +43,7 @@ In this project, you'll apply everything you've learned in Module 2 to build a M
  - Use of communication protocol such as MCP
  - Formal evaluation metrics and benchmarking against baselines
  
- For more information on Module 2 project requirements, see [here](https://app.readytensor.ai/publications/gUPu2RlgjzNy).
+ For more information on Module 2 project requirements, see [here](https://app.readytensor.ai/lessons/gUPu2RlgjzNy).
  
 ---
 
@@ -170,9 +170,9 @@ For questions or technical support, reach out to the Ready Tensor team on Discor
 
 # 📚 Additional Resources
 
-- [Repository Best Practices Guide](https://app.readytensor.ai/publications/0llldKKtn8Xb)
-- [Technical Publication Rubric](https://app.readytensor.ai/publications/WsaE5uxLBqnH)
-- [Ready Tensor Publication Best Practices](https://app.readytensor.ai/publications/SBgkOyUsP8qQ)
+- [Repository Best Practices Guide](https://app.readytensor.ai/lessons/0llldKKtn8Xb)
+- [Technical Publication Rubric](https://app.readytensor.ai/lessons/WsaE5uxLBqnH)
+- [Ready Tensor Publication Best Practices](https://app.readytensor.ai/lessons/SBgkOyUsP8qQ)
 
 _Good luck_ with your Module 2 submission! We look forward to reviewing your innovative multi-agent system.
 
@@ -182,7 +182,7 @@ _Good luck_ with your Module 2 submission! We look forward to reviewing your inn
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - A3 System Evaluation - Case Study](https://app.readytensor.ai/publications/t6q6c0SSuM0W)  
- [➡️ Next - Week 9 Preview](https://app.readytensor.ai/publications/h4GLp8hyNZDt)
+[⬅️ Previous - A3 System Evaluation - Case Study](https://app.readytensor.ai/lessons/t6q6c0SSuM0W)  
+ [➡️ Next - Week 9 Preview](https://app.readytensor.ai/lessons/h4GLp8hyNZDt)
 
 ---

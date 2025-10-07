@@ -6,7 +6,7 @@
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - Project 2 Submission Guidelines](https://app.readytensor.ai/publications/project-2-submission-guidelines-agentic-ai-developer-certification-aaidc-week8-Vyezy1rDg6K3)
+[⬅️ Previous - Project 2 Submission Guidelines](https://app.readytensor.ai/lessons/project-2-submission-guidelines-agentic-ai-developer-certification-aaidc-week8-Vyezy1rDg6K3)
 
 ---
 
@@ -24,7 +24,7 @@ In this capstone project, you’ll take your multi-agent system from Module 2 an
 
 # Project Objectives
 
-This capstone project is based on the multi-agent system you (or your team) built in [Module 2: Build a Multi-Agent System](https://app.readytensor.ai/publications/gUPu2RlgjzNy). If you haven’t completed that project yet, or if you’re joining the program partway through, we recommend reviewing it before starting here.
+This capstone project is based on the multi-agent system you (or your team) built in [Module 2: Build a Multi-Agent System](https://app.readytensor.ai/lessons/gUPu2RlgjzNy). If you haven’t completed that project yet, or if you’re joining the program partway through, we recommend reviewing it before starting here.
 
 In this final project, you’ll demonstrate your ability to prepare an agentic AI system for real-world use by enhancing it with the following capabilities:
 
@@ -155,7 +155,7 @@ Create a comprehensive publication on the Ready Tensor platform that:
 - Follows best practices from our Technical Evaluation Rubric for the **Tool / App / Software Development** category
 - Meets at least 80% of the listed criteria (higher bar for final project)
 
-📄 [Publication: Technical Evaluation Rubric](https://app.readytensor.ai/publications/WsaE5uxLBqnH)
+📄 [Publication: Technical Evaluation Rubric](https://app.readytensor.ai/lessons/WsaE5uxLBqnH)
 
 The rubric is general-purpose. You still need to meet project-specific expectations (e.g. comprehensive testing, security measures, UI implementation, etc).
 
@@ -170,7 +170,7 @@ Submit a repo that:
 - Meets the **"Professional"** level of our repo evaluation rubric
 - Satisfies at least 80% of the Professional criteria
 
-📄 [Repository Evaluation Rubric](https://app.readytensor.ai/publications/0llldKKtn8Xb)
+📄 [Repository Evaluation Rubric](https://app.readytensor.ai/lessons/0llldKKtn8Xb)
 
 ---
 
@@ -194,6 +194,6 @@ You’ll separate yourself from the crowd with this project. Good luck — and b
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - Project 2 Submission Guidelines](https://app.readytensor.ai/publications/project-2-submission-guidelines-agentic-ai-developer-certification-aaidc-week8-Vyezy1rDg6K3)
+[⬅️ Previous - Project 2 Submission Guidelines](https://app.readytensor.ai/lessons/project-2-submission-guidelines-agentic-ai-developer-certification-aaidc-week8-Vyezy1rDg6K3)
 
 ---

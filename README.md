@@ -58,7 +58,7 @@ This is the **main repository** for the Agentic AI Developer Certification Progr
 
   - **Program Overview**
   - **Welcome & Orientation**
-  - **Project Requirements and Submission Guidelines** for Weeks 4, 8, and 12
+  - **Project Requirements, Code Template, and Submission Guidelines** for Weeks 4, 8, and 12
 
 - Finding direct links to each week's **lesson repositories**, which include:
   - Written lesson content
@@ -98,82 +98,82 @@ You can view all lesson publications from this certification program on the Read
 
 📚 Browse the full list below:
 
-| week |                                          publication_title                                           |                         url                          |
-| ---- | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
-| 0    |                  Program Guide: Agentic AI Developer Certification by Ready Tensor                   | https://app.readytensor.ai/publications/HrJ0xWtLzLNt |
-| 0    |                  Agentic AI Developer Certification Program: Welcome & Orientation                   | https://app.readytensor.ai/publications/kwFKTldV27nA |
-| 1    |                              What is Agentic AI (AAIDC-Week1-Lesson-1)                               | https://app.readytensor.ai/publications/g8QivAEShqgw |
-| 1    |                       The Core Components of AI Agents (AAIDC-Week1-Lesson-2)                        | https://app.readytensor.ai/publications/O8OHY0ehCvdr |
-| 1    |                     Real-World Applications of Agentic AI (AAIDC-Week1-Lesson-3)                     | https://app.readytensor.ai/publications/EbfPXrWQMeCh |
-| 1    |                        Agentic AI: Tools of the Trade (AAIDC-Week1-Lesson-4)                         | https://app.readytensor.ai/publications/hjbeURATH5ul |
-| 1    |                       Agentic AI: Agents vs. Workflows (AAIDC-Week1-Lesson-5)                        | https://app.readytensor.ai/publications/Xq3L2HSWLPou |
-| 2    |         Getting Started with Agentic AI: Free APIs and Local LLM Options (AAIDC-Week2-Setup)         | https://app.readytensor.ai/publications/HMONylFlvgvC |
-| 2    |                   Building Prompts for Agentic AI Systems (AAIDC-Week2-Lesson-1a)                    | https://app.readytensor.ai/publications/36Hu3DC3TLdu |
-| 2    |             Prompt Engineering: Advanced "Reasoning" Techniques (AAIDC-Week2-Lesson-1b)              | https://app.readytensor.ai/publications/3jI5t1hwF8wM |
-| 2    |                From Text to Data: Hands-On LLM Output Parsing (AAIDC-Week2-Lesson-2)                 | https://app.readytensor.ai/publications/LHMxs5Dtsv26 |
-| 2    |       Building Intelligent Pipelines: A Guide to LLM Function Chaining (AAIDC-Week2-Lesson-3)        | https://app.readytensor.ai/publications/X51gr9ZwohcW |
-| 2    |          Vector Databases: How AI Finds Meaning, Not Just Keywords (AAIDC-Week2-Lesson-4a)           | https://app.readytensor.ai/publications/Zdrul0fG17Mg |
-| 2    |            Vector Databases: Building a Semantic Retrieval System (AAIDC-Week2-Lesson-4b)            | https://app.readytensor.ai/publications/hwjIdxHZGASQ |
-| 2    |         Introduction to RAG (Retrieval Augmented Generation) Systems (AAIDC-Week2-Lesson-5)          | https://app.readytensor.ai/publications/3Ht58iNXuvS7 |
-| 3    |                   Week 3 Preview: Your RAG Assistant Toolkit (AAIDC-Week3-Preview)                   | https://app.readytensor.ai/publications/gleIJzLtXA3m |
-| 3    |          Your First LLM Calls: Getting Started with Groq & LangChain (AAIDC-Week3-Lesson-1)          | https://app.readytensor.ai/publications/BJbtjKH15JHb |
-| 3    |                  System Prompts: Your AI's Operating Manual (AAIDC-Week3-Lesson-2)                   | https://app.readytensor.ai/publications/t79Iyg4lva2t |
-| 3    |        Memory Management Strategies: When Conversations Get Too Long (AAIDC-Week3-Lesson-3a)         | https://app.readytensor.ai/publications/WCVvtUtH3N1o |
-| 3    |           Memory Persistence: Saving Conversations Across Sessions (AAIDC-Week3-Lesson-3b)           | https://app.readytensor.ai/publications/Ax1KnCSIt9QI |
-| 3    |      Building Your Research Assistant: A Step-by-Step RAG Implementation (AAIDC-Week3-Lesson-4)      | https://app.readytensor.ai/publications/IBOMURRgN8Dn |
-| 4    |             AAIDC Module 1 Project: Foundations of Agentic AI – Your First RAG Assistant             | https://app.readytensor.ai/publications/4n07ViGCey0l |
-| 4    |                 Project 1 Submission Guidelines - Agentic AI Developer Certification                 | https://app.readytensor.ai/publications/BblNcQTBi5Os |
-| 5    |               Week 5 Preview: From Workflows to Agentic Systems (AAIDC-Week5-Preview)                | https://app.readytensor.ai/publications/jcd9IGoIp9sl |
-| 5    |        From Workflows to Agents: When Predictable Paths Aren't Enough (AAIDC-Week5-Lesson-1)         | https://app.readytensor.ai/publications/Nu7EEaBmrP5C |
-| 5    |       Building Agentic Systems at Scale: An Introduction to LangGraph (AAIDC-Week5-Lesson-2a)        | https://app.readytensor.ai/publications/J98Nkhh5Z8CW |
-| 5    |              Your First LangGraph Project: Building a Joke Bot (AAIDC-Week5-Lesson-2b)               | https://app.readytensor.ai/publications/T8WbWCjwJ4Mm |
-| 5    |           Agentic AI With LangGraph: Building a Writer–Critic Loop (AAIDC-Week5-Lesson-2c)           | https://app.readytensor.ai/publications/zvrcImvr8AF4 |
-| 5    |           Inside the Mind of an Agent: Observability with LangSmith (AAIDC-Week5-Lesson-3)           | https://app.readytensor.ai/publications/XOuxwqlmJmMG |
-| 5    |         Beyond Conversation: Giving Your AI Agent the Power of Tools (AAIDC-Week5-Lesson-4a)         | https://app.readytensor.ai/publications/hHwXrjkLnNaD |
-| 5    |       Custom Tools, Custom Powers: Extending Your Agent’s Capabilities (AAIDC-Week5-Lesson-4b)       | https://app.readytensor.ai/publications/pcFgUEFJjkzC |
-| 6    |                Week 6 Preview: Architecting Multi-Agent Systems (AAIDC-Week6-Preview)                | https://app.readytensor.ai/publications/gleIJzLtXA3m |
-| 6    |     Architecting Intelligence: Design Patterns for Multi-Agent AI Systems (AAIDC-Week6-Lesson-1)     | https://app.readytensor.ai/publications/Sp2HOfRpH4Fl |
-| 6    |     From Idea to Architecture: Defining Our Agentic Authoring Assistant (AAIDC-Week6-Lesson-2a)      | https://app.readytensor.ai/publications/Gq1xQ27DmJ56 |
-| 6    |   From Architecture to Implementation: Building the Tag Extraction System (AAIDC-Week6-Lesson-2b)    | https://app.readytensor.ai/publications/D3vJsJh1500g |
-| 6    |       Building the Dream Team: Designing the Right Agents for the Job (AAIDC-Week6-Lesson-3a)        | https://app.readytensor.ai/publications/qtRz3uuXGx5Y |
-| 6    |   Orchestrating Intelligence: Designing Agentic Systems That Actually Work (AAIDC-Week6-Lesson-3b)   | https://app.readytensor.ai/publications/redklSjefHNo |
-| 6    |              MCP: A Standard Way for AI to Use External Tools (AAIDC-Week6-Lecture-4a)               | https://app.readytensor.ai/publications/LAeGUSWv4dKb |
-| 6    |         MCP in Action: Connecting and Creating Real AI Integrations (AAIDC-Week6-Lesson-4b)          | https://app.readytensor.ai/publications/35v0wzEbKZBo |
-| 7    |                   Week 7 Preview: Evaluating Agentic Systems (AAIDC-Week7-Preview)                   | https://app.readytensor.ai/publications/LZYqZkLL09bo |
-| 7    |               Evaluating Agentic AI: Beyond Traditional Testing (AAIDC-Week7-Lesson1)                | https://app.readytensor.ai/publications/FO7hdfmkhl42 |
-| 7    |             The Evaluation Toolkit: Methods for Testing Agentic AI (AAIDC-Week7-Lesson2)             | https://app.readytensor.ai/publications/ljPGqR17HJmj |
-| 7    |       Your System, Your Metrics: A Practical Guide to Agentic Evaluation (AAIDC-Week7-Lesson3)       | https://app.readytensor.ai/publications/68dY0FXJ1gI1 |
-| 7    |          How to Evaluate LLM Applications: A Complete RAGAS Tutorial (AAIDC-Week7-Lesson4)           | https://app.readytensor.ai/publications/Frw6T1fBzVTF |
-| 7    |         How to Evaluate LLM Applications: A Complete DeepEval Tutorial (AAIDC-Week7-Lesson5)         | https://app.readytensor.ai/publications/6QRSBm5gdx2J |
-| 7    |         Evaluating Multi-Agent AI Systems: A Comprehensive Case Study (AAIDC-Week7-Lesson6)          | https://app.readytensor.ai/publications/t6q6c0SSuM0W |
-| 8    |                        AAIDC Module 2 Project: Build Your Multi-Agent System                         | https://app.readytensor.ai/publications/gUPu2RlgjzNy |
-| 8    |   AAIDC Module 2 Project Submission Guidelines - Agentic AI Developer Certification (AAIDC-Week8)    | https://app.readytensor.ai/publications/Vyezy1rDg6K3 |
-| 9    |      Week 9 Preview: Testing Agentic AI Systems for Real-World Readiness (AAIDC-Week9-Preview)       | https://app.readytensor.ai/publications/h4GLp8hyNZDt |
-| 9    |    Production Testing for Agentic AI Systems: What Developers Need to Know (AAIDC-Week9-Lesson1)     | https://app.readytensor.ai/publications/Os3lVD6k6e3R |
-| 9    |          Getting Started with pytest: Your Agentic Testing Toolkit (AAIDC-Week9-Lesson-2a)           | https://app.readytensor.ai/publications/cpoAQfEZCcmi |
-| 9    |  Testing Agentic AI Applications: How to Use Pytest for LLM-Based Workflows (AAIDC-Week9-Lesson-2b)  | https://app.readytensor.ai/publications/GRFinafIgmcv |
-| 9    |      Autonomy Meets Attack: Securing Agentic AI from Real-World Exploits (AAIDC-Week9-Lesson3)       | https://app.readytensor.ai/publications/iEJ8OiUoSXRY |
-| 9    |            AI That Doesn’t Harm: Principles of Safety and Alignment (AAIDC-Week9-Lesson4)            | https://app.readytensor.ai/publications/2I2CRYlJrUZJ |
-| 9    |   Guardrails in Action: Runtime Safety and Output Validation for Agentic AI (AAIDC-Week9-Lesson5)    | https://app.readytensor.ai/publications/tiBt9Nevyqrw |
-| 9    |      Giskard in Action: Scanning Agentic AI for Bias and Vulnerabilities (AAIDC-Week9-Lesson6)       | https://app.readytensor.ai/publications/4PVxbVYFrLVO |
-| 9    |          Testing Agentic AI: A Case Study on Multi-Agent LLM Systems (AAIDC-Week9-Lesson7)           | https://app.readytensor.ai/publications/uDLdzgPAQ5BZ |
-| 10   |          Packaging Your Agentic AI: From Demo to Production Handoff (AAIDC-Week10-Preview)           | https://app.readytensor.ai/publications/cPsF3K8r69bd |
-| 10   |          FastAPI Fundamentals: Building Web APIs for Your AI Agents(AAIDC-Week10-Lesson1a)           | https://app.readytensor.ai/publications/3FLDYUhZnlTu |
-| 10   |                   Hosting FastAPI AI application on Render (AAIDC-Week10-Lesson1b)                   | https://app.readytensor.ai/publications/i3gMkNkTokWR |
-| 10   |           Gradio for Developers: Build and Share AI Demos Instantly (AAIDC-Week10-Lesson2)           | https://app.readytensor.ai/publications/pZxv9sd7Bk75 |
-| 10   |       Build and Deploy AI Chatbots with Streamlit: A Step-by-Step Guide (AAIDC-Week10-Lesson3)       | https://app.readytensor.ai/publications/KNnkpIlfXLoP |
-| 10   |    Resilience in Agentic AI: How to Handle Failures and Recover Gracefully (AAIDC-Week10-Lesson4)    | https://app.readytensor.ai/publications/S1AMb9G3IMqX |
-| 10   |  Deploying Agentic AI: Documentation and Handoff Guide for LLM-Based Systems (AAIDC-Week10-Lesson5)  | https://app.readytensor.ai/publications/Al9E4GsrKoKC |
-| 11   |      Week 11 Preview: Monitoring, Observability & Real-World Agentic AI (AAIDC-Week11-Preview)       | https://app.readytensor.ai/publications/dkWUcl9DJl6b |
-| 11   |  Monitoring and Observability 101: Understanding Metrics, Logs, and Traces (AAIDC-Week11-Lesson1a)   | https://app.readytensor.ai/publications/3p414r28A7UU |
-| 11   |      What to Monitor in Agentic AI: Detecting Failures Before Users Do (AAIDC-Week11-Lesson1b)       | https://app.readytensor.ai/publications/McNh5g2RBFKq |
-| 11   | Monitoring and Observability Tools: Choosing the Right Stack for LLM Systems (AAIDC-Week11-Lesson1c) | https://app.readytensor.ai/publications/z0GUbKAFMf9l |
-| 11   |     Troubleshooting Agentic AI: Debugging Failures in Production Systems (AAIDC-Week11-Lesson1d)     | https://app.readytensor.ai/publications/6qmc6P1CWNGY |
-| 11   |     Data Privacy in Agentic AI: GDPR, HIPAA, and Developer Best Practices (AAIDC-Week11-Lesson2)     | https://app.readytensor.ai/publications/hQirE9Zfqpje |
-| 11   |    Proprietary vs Open Weight LLMs: How to Choose for Your Agentic System (AAIDC-Week11-Lesson3)     | https://app.readytensor.ai/publications/Kev4TxRgmnUn |
-| 11   |   Designing Agentic AI: System Architect's Blueprint for Production Success (AAIDC-Week11-Lesson4)   | https://app.readytensor.ai/publications/DBt437eCRgoK |
-| 12   |                      AAIDC Module 3 Project: Productionize Your Agentic System                       | https://app.readytensor.ai/publications/DSYotKAAvcxy |
-| 12   |          Agentic AI Developer Certification: Project 3 Submission Guidelines (AAIDC-Week12)          | https://app.readytensor.ai/publications/NFFBd0CLuHqF |
+| week |                                          publication_title                                           |                       url                       |
+| ---- | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
+| 0    |                  Program Guide: Agentic AI Developer Certification by Ready Tensor                   | https://app.readytensor.ai/lessons/HrJ0xWtLzLNt |
+| 0    |                  Agentic AI Developer Certification Program: Welcome & Orientation                   | https://app.readytensor.ai/lessons/kwFKTldV27nA |
+| 1    |                              What is Agentic AI (AAIDC-Week1-Lesson-1)                               | https://app.readytensor.ai/lessons/g8QivAEShqgw |
+| 1    |                       The Core Components of AI Agents (AAIDC-Week1-Lesson-2)                        | https://app.readytensor.ai/lessons/O8OHY0ehCvdr |
+| 1    |                     Real-World Applications of Agentic AI (AAIDC-Week1-Lesson-3)                     | https://app.readytensor.ai/lessons/EbfPXrWQMeCh |
+| 1    |                        Agentic AI: Tools of the Trade (AAIDC-Week1-Lesson-4)                         | https://app.readytensor.ai/lessons/hjbeURATH5ul |
+| 1    |                       Agentic AI: Agents vs. Workflows (AAIDC-Week1-Lesson-5)                        | https://app.readytensor.ai/lessons/Xq3L2HSWLPou |
+| 2    |         Getting Started with Agentic AI: Free APIs and Local LLM Options (AAIDC-Week2-Setup)         | https://app.readytensor.ai/lessons/HMONylFlvgvC |
+| 2    |                   Building Prompts for Agentic AI Systems (AAIDC-Week2-Lesson-1a)                    | https://app.readytensor.ai/lessons/36Hu3DC3TLdu |
+| 2    |             Prompt Engineering: Advanced "Reasoning" Techniques (AAIDC-Week2-Lesson-1b)              | https://app.readytensor.ai/lessons/3jI5t1hwF8wM |
+| 2    |                From Text to Data: Hands-On LLM Output Parsing (AAIDC-Week2-Lesson-2)                 | https://app.readytensor.ai/lessons/LHMxs5Dtsv26 |
+| 2    |       Building Intelligent Pipelines: A Guide to LLM Function Chaining (AAIDC-Week2-Lesson-3)        | https://app.readytensor.ai/lessons/X51gr9ZwohcW |
+| 2    |          Vector Databases: How AI Finds Meaning, Not Just Keywords (AAIDC-Week2-Lesson-4a)           | https://app.readytensor.ai/lessons/Zdrul0fG17Mg |
+| 2    |            Vector Databases: Building a Semantic Retrieval System (AAIDC-Week2-Lesson-4b)            | https://app.readytensor.ai/lessons/hwjIdxHZGASQ |
+| 2    |         Introduction to RAG (Retrieval Augmented Generation) Systems (AAIDC-Week2-Lesson-5)          | https://app.readytensor.ai/lessons/3Ht58iNXuvS7 |
+| 3    |                   Week 3 Preview: Your RAG Assistant Toolkit (AAIDC-Week3-Preview)                   | https://app.readytensor.ai/lessons/gleIJzLtXA3m |
+| 3    |          Your First LLM Calls: Getting Started with Groq & LangChain (AAIDC-Week3-Lesson-1)          | https://app.readytensor.ai/lessons/BJbtjKH15JHb |
+| 3    |                  System Prompts: Your AI's Operating Manual (AAIDC-Week3-Lesson-2)                   | https://app.readytensor.ai/lessons/t79Iyg4lva2t |
+| 3    |        Memory Management Strategies: When Conversations Get Too Long (AAIDC-Week3-Lesson-3a)         | https://app.readytensor.ai/lessons/WCVvtUtH3N1o |
+| 3    |           Memory Persistence: Saving Conversations Across Sessions (AAIDC-Week3-Lesson-3b)           | https://app.readytensor.ai/lessons/Ax1KnCSIt9QI |
+| 3    |      Building Your Research Assistant: A Step-by-Step RAG Implementation (AAIDC-Week3-Lesson-4)      | https://app.readytensor.ai/lessons/IBOMURRgN8Dn |
+| 4    |             AAIDC Module 1 Project: Foundations of Agentic AI – Your First RAG Assistant             | https://app.readytensor.ai/lessons/4n07ViGCey0l |
+| 4    |                 Project 1 Submission Guidelines - Agentic AI Developer Certification                 | https://app.readytensor.ai/lessons/BblNcQTBi5Os |
+| 5    |               Week 5 Preview: From Workflows to Agentic Systems (AAIDC-Week5-Preview)                | https://app.readytensor.ai/lessons/jcd9IGoIp9sl |
+| 5    |        From Workflows to Agents: When Predictable Paths Aren't Enough (AAIDC-Week5-Lesson-1)         | https://app.readytensor.ai/lessons/Nu7EEaBmrP5C |
+| 5    |       Building Agentic Systems at Scale: An Introduction to LangGraph (AAIDC-Week5-Lesson-2a)        | https://app.readytensor.ai/lessons/J98Nkhh5Z8CW |
+| 5    |              Your First LangGraph Project: Building a Joke Bot (AAIDC-Week5-Lesson-2b)               | https://app.readytensor.ai/lessons/T8WbWCjwJ4Mm |
+| 5    |           Agentic AI With LangGraph: Building a Writer–Critic Loop (AAIDC-Week5-Lesson-2c)           | https://app.readytensor.ai/lessons/zvrcImvr8AF4 |
+| 5    |           Inside the Mind of an Agent: Observability with LangSmith (AAIDC-Week5-Lesson-3)           | https://app.readytensor.ai/lessons/XOuxwqlmJmMG |
+| 5    |         Beyond Conversation: Giving Your AI Agent the Power of Tools (AAIDC-Week5-Lesson-4a)         | https://app.readytensor.ai/lessons/hHwXrjkLnNaD |
+| 5    |       Custom Tools, Custom Powers: Extending Your Agent’s Capabilities (AAIDC-Week5-Lesson-4b)       | https://app.readytensor.ai/lessons/pcFgUEFJjkzC |
+| 6    |                Week 6 Preview: Architecting Multi-Agent Systems (AAIDC-Week6-Preview)                | https://app.readytensor.ai/lessons/gleIJzLtXA3m |
+| 6    |     Architecting Intelligence: Design Patterns for Multi-Agent AI Systems (AAIDC-Week6-Lesson-1)     | https://app.readytensor.ai/lessons/Sp2HOfRpH4Fl |
+| 6    |     From Idea to Architecture: Defining Our Agentic Authoring Assistant (AAIDC-Week6-Lesson-2a)      | https://app.readytensor.ai/lessons/Gq1xQ27DmJ56 |
+| 6    |   From Architecture to Implementation: Building the Tag Extraction System (AAIDC-Week6-Lesson-2b)    | https://app.readytensor.ai/lessons/D3vJsJh1500g |
+| 6    |       Building the Dream Team: Designing the Right Agents for the Job (AAIDC-Week6-Lesson-3a)        | https://app.readytensor.ai/lessons/qtRz3uuXGx5Y |
+| 6    |   Orchestrating Intelligence: Designing Agentic Systems That Actually Work (AAIDC-Week6-Lesson-3b)   | https://app.readytensor.ai/lessons/redklSjefHNo |
+| 6    |              MCP: A Standard Way for AI to Use External Tools (AAIDC-Week6-Lecture-4a)               | https://app.readytensor.ai/lessons/LAeGUSWv4dKb |
+| 6    |         MCP in Action: Connecting and Creating Real AI Integrations (AAIDC-Week6-Lesson-4b)          | https://app.readytensor.ai/lessons/35v0wzEbKZBo |
+| 7    |                   Week 7 Preview: Evaluating Agentic Systems (AAIDC-Week7-Preview)                   | https://app.readytensor.ai/lessons/LZYqZkLL09bo |
+| 7    |               Evaluating Agentic AI: Beyond Traditional Testing (AAIDC-Week7-Lesson1)                | https://app.readytensor.ai/lessons/FO7hdfmkhl42 |
+| 7    |             The Evaluation Toolkit: Methods for Testing Agentic AI (AAIDC-Week7-Lesson2)             | https://app.readytensor.ai/lessons/ljPGqR17HJmj |
+| 7    |       Your System, Your Metrics: A Practical Guide to Agentic Evaluation (AAIDC-Week7-Lesson3)       | https://app.readytensor.ai/lessons/68dY0FXJ1gI1 |
+| 7    |          How to Evaluate LLM Applications: A Complete RAGAS Tutorial (AAIDC-Week7-Lesson4)           | https://app.readytensor.ai/lessons/Frw6T1fBzVTF |
+| 7    |         How to Evaluate LLM Applications: A Complete DeepEval Tutorial (AAIDC-Week7-Lesson5)         | https://app.readytensor.ai/lessons/6QRSBm5gdx2J |
+| 7    |         Evaluating Multi-Agent AI Systems: A Comprehensive Case Study (AAIDC-Week7-Lesson6)          | https://app.readytensor.ai/lessons/t6q6c0SSuM0W |
+| 8    |                        AAIDC Module 2 Project: Build Your Multi-Agent System                         | https://app.readytensor.ai/lessons/gUPu2RlgjzNy |
+| 8    |   AAIDC Module 2 Project Submission Guidelines - Agentic AI Developer Certification (AAIDC-Week8)    | https://app.readytensor.ai/lessons/Vyezy1rDg6K3 |
+| 9    |      Week 9 Preview: Testing Agentic AI Systems for Real-World Readiness (AAIDC-Week9-Preview)       | https://app.readytensor.ai/lessons/h4GLp8hyNZDt |
+| 9    |    Production Testing for Agentic AI Systems: What Developers Need to Know (AAIDC-Week9-Lesson1)     | https://app.readytensor.ai/lessons/Os3lVD6k6e3R |
+| 9    |          Getting Started with pytest: Your Agentic Testing Toolkit (AAIDC-Week9-Lesson-2a)           | https://app.readytensor.ai/lessons/cpoAQfEZCcmi |
+| 9    |  Testing Agentic AI Applications: How to Use Pytest for LLM-Based Workflows (AAIDC-Week9-Lesson-2b)  | https://app.readytensor.ai/lessons/GRFinafIgmcv |
+| 9    |      Autonomy Meets Attack: Securing Agentic AI from Real-World Exploits (AAIDC-Week9-Lesson3)       | https://app.readytensor.ai/lessons/iEJ8OiUoSXRY |
+| 9    |            AI That Doesn’t Harm: Principles of Safety and Alignment (AAIDC-Week9-Lesson4)            | https://app.readytensor.ai/lessons/2I2CRYlJrUZJ |
+| 9    |   Guardrails in Action: Runtime Safety and Output Validation for Agentic AI (AAIDC-Week9-Lesson5)    | https://app.readytensor.ai/lessons/tiBt9Nevyqrw |
+| 9    |      Giskard in Action: Scanning Agentic AI for Bias and Vulnerabilities (AAIDC-Week9-Lesson6)       | https://app.readytensor.ai/lessons/4PVxbVYFrLVO |
+| 9    |          Testing Agentic AI: A Case Study on Multi-Agent LLM Systems (AAIDC-Week9-Lesson7)           | https://app.readytensor.ai/lessons/uDLdzgPAQ5BZ |
+| 10   |          Packaging Your Agentic AI: From Demo to Production Handoff (AAIDC-Week10-Preview)           | https://app.readytensor.ai/lessons/cPsF3K8r69bd |
+| 10   |          FastAPI Fundamentals: Building Web APIs for Your AI Agents(AAIDC-Week10-Lesson1a)           | https://app.readytensor.ai/lessons/3FLDYUhZnlTu |
+| 10   |                   Hosting FastAPI AI application on Render (AAIDC-Week10-Lesson1b)                   | https://app.readytensor.ai/lessons/i3gMkNkTokWR |
+| 10   |           Gradio for Developers: Build and Share AI Demos Instantly (AAIDC-Week10-Lesson2)           | https://app.readytensor.ai/lessons/pZxv9sd7Bk75 |
+| 10   |       Build and Deploy AI Chatbots with Streamlit: A Step-by-Step Guide (AAIDC-Week10-Lesson3)       | https://app.readytensor.ai/lessons/KNnkpIlfXLoP |
+| 10   |    Resilience in Agentic AI: How to Handle Failures and Recover Gracefully (AAIDC-Week10-Lesson4)    | https://app.readytensor.ai/lessons/S1AMb9G3IMqX |
+| 10   |  Deploying Agentic AI: Documentation and Handoff Guide for LLM-Based Systems (AAIDC-Week10-Lesson5)  | https://app.readytensor.ai/lessons/Al9E4GsrKoKC |
+| 11   |      Week 11 Preview: Monitoring, Observability & Real-World Agentic AI (AAIDC-Week11-Preview)       | https://app.readytensor.ai/lessons/dkWUcl9DJl6b |
+| 11   |  Monitoring and Observability 101: Understanding Metrics, Logs, and Traces (AAIDC-Week11-Lesson1a)   | https://app.readytensor.ai/lessons/3p414r28A7UU |
+| 11   |      What to Monitor in Agentic AI: Detecting Failures Before Users Do (AAIDC-Week11-Lesson1b)       | https://app.readytensor.ai/lessons/McNh5g2RBFKq |
+| 11   | Monitoring and Observability Tools: Choosing the Right Stack for LLM Systems (AAIDC-Week11-Lesson1c) | https://app.readytensor.ai/lessons/z0GUbKAFMf9l |
+| 11   |     Troubleshooting Agentic AI: Debugging Failures in Production Systems (AAIDC-Week11-Lesson1d)     | https://app.readytensor.ai/lessons/6qmc6P1CWNGY |
+| 11   |     Data Privacy in Agentic AI: GDPR, HIPAA, and Developer Best Practices (AAIDC-Week11-Lesson2)     | https://app.readytensor.ai/lessons/hQirE9Zfqpje |
+| 11   |    Proprietary vs Open Weight LLMs: How to Choose for Your Agentic System (AAIDC-Week11-Lesson3)     | https://app.readytensor.ai/lessons/Kev4TxRgmnUn |
+| 11   |   Designing Agentic AI: System Architect's Blueprint for Production Success (AAIDC-Week11-Lesson4)   | https://app.readytensor.ai/lessons/DBt437eCRgoK |
+| 12   |                      AAIDC Module 3 Project: Productionize Your Agentic System                       | https://app.readytensor.ai/lessons/DSYotKAAvcxy |
+| 12   |          Agentic AI Developer Certification: Project 3 Submission Guidelines (AAIDC-Week12)          | https://app.readytensor.ai/lessons/NFFBd0CLuHqF |
 
 ---
 
@@ -181,24 +181,24 @@ You can view all lesson publications from this certification program on the Read
 
 These lessons explore advanced frameworks, strategies, and production concerns. They are **not required for certification**, and links will be added as lessons are released.
 
-| section                        | publication_title                                                      | url                                                  |
-| ------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------- |
-| Alternative Frameworks & Tools | OpenAI Python SDK: Quickstart Tutorial with Code Examples              | https://app.readytensor.ai/publications/iyQlDcuqY6kW |
-| Alternative Frameworks & Tools | OpenAI Agents SDK Tutorial: Building Autonomous Multi-Agent AI Systems | https://app.readytensor.ai/publications/5hubr48CnmGH |
-| Alternative Frameworks & Tools | Crew AI                                                                | _Coming soon_                                        |
-| Alternative Frameworks & Tools | n8n                                                                    | _Coming soon_                                        |
-| Alternative Frameworks & Tools | AutoGen                                                                | _Coming soon_                                        |
-| Alternative Frameworks & Tools | Pydantic AI & Other Tools                                              | _Coming soon_                                        |
-| Advanced Concepts              | LLM Benchmarks and Leaderboards: A Practical Guide for AI Builders     | https://app.readytensor.ai/publications/3TYo2lnKHu9c |
-| Advanced Concepts              | Context Engineering Deep Dive                                          | _Coming soon_                                        |
-| Advanced Concepts              | Vector DB Limitations & Graph RAG                                      | _Coming soon_                                        |
-| Advanced Concepts              | Advanced Chunking Strategies                                           | _Coming soon_                                        |
-| Advanced Concepts              | Why Multi-Agent Systems Fail                                           | _Coming soon_                                        |
-| Specialized Production         | AI Governance Frameworks                                               | _Coming soon_                                        |
-| Specialized Production         | Bias & Fairness in Agentic AI                                          | _Coming soon_                                        |
-| Specialized Production         | Advanced Testing (TDD, Mocking)                                        | _Coming soon_                                        |
-| Specialized Production         | Agent-to-Agent Communication                                           | _Coming soon_                                        |
-| Specialized Production         | Advanced Monitoring with Portkey                                       | _Coming soon_                                        |
+| section                        | publication_title                                                      | url                                             |
+| ------------------------------ | ---------------------------------------------------------------------- | ----------------------------------------------- |
+| Alternative Frameworks & Tools | OpenAI Python SDK: Quickstart Tutorial with Code Examples              | https://app.readytensor.ai/lessons/iyQlDcuqY6kW |
+| Alternative Frameworks & Tools | OpenAI Agents SDK Tutorial: Building Autonomous Multi-Agent AI Systems | https://app.readytensor.ai/lessons/5hubr48CnmGH |
+| Alternative Frameworks & Tools | Crew AI                                                                | _Coming soon_                                   |
+| Alternative Frameworks & Tools | n8n                                                                    | _Coming soon_                                   |
+| Alternative Frameworks & Tools | AutoGen                                                                | _Coming soon_                                   |
+| Alternative Frameworks & Tools | Pydantic AI & Other Tools                                              | _Coming soon_                                   |
+| Advanced Concepts              | LLM Benchmarks and Leaderboards: A Practical Guide for AI Builders     | https://app.readytensor.ai/lessons/3TYo2lnKHu9c |
+| Advanced Concepts              | Context Engineering Deep Dive                                          | _Coming soon_                                   |
+| Advanced Concepts              | Vector DB Limitations & Graph RAG                                      | _Coming soon_                                   |
+| Advanced Concepts              | Advanced Chunking Strategies                                           | _Coming soon_                                   |
+| Advanced Concepts              | Why Multi-Agent Systems Fail                                           | _Coming soon_                                   |
+| Specialized Production         | AI Governance Frameworks                                               | _Coming soon_                                   |
+| Specialized Production         | Bias & Fairness in Agentic AI                                          | _Coming soon_                                   |
+| Specialized Production         | Advanced Testing (TDD, Mocking)                                        | _Coming soon_                                   |
+| Specialized Production         | Agent-to-Agent Communication                                           | _Coming soon_                                   |
+| Specialized Production         | Advanced Monitoring with Portkey                                       | _Coming soon_                                   |
 
 ---
 

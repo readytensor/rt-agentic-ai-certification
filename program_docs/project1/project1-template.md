@@ -6,8 +6,8 @@
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - Lesson 4 - RAG Implementation](https://app.readytensor.ai/publications/IBOMURRgN8Dn)
-[➡️ Next - Project 1 Submission Guidelines](https://app.readytensor.ai/publications/BblNcQTBi5Os)
+[⬅️ Previous - Lesson 4 - RAG Implementation](https://app.readytensor.ai/lessons/IBOMURRgN8Dn)
+[➡️ Next - Project 1 Submission Guidelines](https://app.readytensor.ai/lessons/BblNcQTBi5Os)
 
 ---
 
@@ -129,7 +129,7 @@ This is your first step toward building real agentic systems. Have fun with it! 
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - Lesson 4 - RAG Implementation](https://app.readytensor.ai/publications/IBOMURRgN8Dn)
-[➡️ Next - Project 1 Submission Guidelines](https://app.readytensor.ai/publications/BblNcQTBi5Os)
+[⬅️ Previous - Lesson 4 - RAG Implementation](https://app.readytensor.ai/lessons/IBOMURRgN8Dn)
+[➡️ Next - Project 1 Submission Guidelines](https://app.readytensor.ai/lessons/BblNcQTBi5Os)
 
 ---

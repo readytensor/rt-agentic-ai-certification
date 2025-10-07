@@ -6,7 +6,7 @@
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - Agentic System Architect's Blueprint](https://app.readytensor.ai/publications/DBt437eCRgoK)
+[⬅️ Previous - Agentic System Architect's Blueprint](https://app.readytensor.ai/lessons/DBt437eCRgoK)
 
 ---
 
@@ -52,7 +52,7 @@ Your final project must demonstrate a production-ready version of the multi-agen
  
  Note you may link to your publication from Module 2 if you built upon that work. No need to duplicate the content. You may still want to summarize the project and what was done in Module 2.
  
- 📄 [Publication Evaluation Rubric](https://app.readytensor.ai/publications/WsaE5uxLBqnH)
+ 📄 [Publication Evaluation Rubric](https://app.readytensor.ai/lessons/WsaE5uxLBqnH)
  
  ## 2. A GitHub Repository
  
@@ -64,7 +64,7 @@ Your final project must demonstrate a production-ready version of the multi-agen
  - Include a working UI layer using Streamlit, Gradio, or similar
  - Meet at least 80% of the “Professional” criteria in the Ready Tensor repo rubric
  
- 📄 [Repository Evaluation Rubric](https://app.readytensor.ai/publications/0llldKKtn8Xb)
+ 📄 [Repository Evaluation Rubric](https://app.readytensor.ai/lessons/0llldKKtn8Xb)
  
  ---
 
@@ -225,10 +225,10 @@ Join us on [Discord](https://discord.gg/readytensor) for support, collaboration,
 
 # 📚 Helpful Resources
 
-- [Project 3 Requirements](https://app.readytensor.ai/publications/DSYotKAAvcxy)
-- [Publication Rubric](https://app.readytensor.ai/publications/WsaE5uxLBqnH)
-- [Repository Rubric](https://app.readytensor.ai/publications/0llldKKtn8Xb)
-- [Ready Tensor Publication Best Practices](https://app.readytensor.ai/publications/SBgkOyUsP8qQ)
+- [Project 3 Requirements](https://app.readytensor.ai/lessons/DSYotKAAvcxy)
+- [Publication Rubric](https://app.readytensor.ai/lessons/WsaE5uxLBqnH)
+- [Repository Rubric](https://app.readytensor.ai/lessons/0llldKKtn8Xb)
+- [Ready Tensor Publication Best Practices](https://app.readytensor.ai/lessons/SBgkOyUsP8qQ)
 
 --DIVIDER--
 
@@ -236,6 +236,6 @@ Join us on [Discord](https://discord.gg/readytensor) for support, collaboration,
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - Agentic System Architect's Blueprint](https://app.readytensor.ai/publications/DBt437eCRgoK)
+[⬅️ Previous - Agentic System Architect's Blueprint](https://app.readytensor.ai/lessons/DBt437eCRgoK)
 
 ---

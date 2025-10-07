@@ -6,18 +6,31 @@
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - Welcome & Orientation](https://app.readytensor.ai/publications/kwFKTldV27nA)
-[➡️ Next - What is Agentic AI](https://app.readytensor.ai/publications/g8QivAEShqgw)
+[⬅️ Previous - Welcome & Orientation](https://app.readytensor.ai/lessons/kwFKTldV27nA)
+[➡️ Next - What is Agentic AI](https://app.readytensor.ai/lessons/g8QivAEShqgw)
+
+---
+
+:::important{title="Before You Begin"}
+
+Each module in this program starts with a project overview like this one.  
+You’re **not expected to know how to build this project yet** — this page simply shows the _destination_.
+
+Over the next few lessons in this module, you’ll learn all the techniques, tools, and examples you need to complete it.  
+Treat this page as your **north star** — a preview of what you’ll achieve by the end of Module 1.
+
+:::
 
 ---
 
 --DIVIDER--
 
-# Project Context
-
+:::highlight{title="Project Context"}
 This is the first of three core projects in the Agentic AI Developer Certification Program. These projects are the main deliverables you’ll complete to earn your certificate of completion.
 
 Each project is designed to apply what you’ve learned in that module through hands-on implementation. This one wraps up Module 1 by having you build a working RAG-based assistant that retrieves answers from a custom knowledge base.
+
+:::
 
 ---
 
@@ -144,7 +157,7 @@ To complete this project, you need to submit **two deliverables**:
    _Tool / App / Software Development_ category
  - Meets at least **70% of the listed criteria**
  
- 📄 [Publication: Technical Evaluation Rubric](https://app.readytensor.ai/publications/WsaE5uxLBqnH)
+ 📄 [Publication: Technical Evaluation Rubric](https://app.readytensor.ai/lessons/WsaE5uxLBqnH)
  
  Check the document titled **Publication Evaluation Criteria Reference Guide.pdf** uploaded in this publication above.
  
@@ -159,7 +172,7 @@ To complete this project, you need to submit **two deliverables**:
  - Meets the **“Essential” level** of our repo evaluation rubric
  - Satisfies at least **70% of the Essential criteria**
  
- 📄 [Repository Evaluation Rubric](https://app.readytensor.ai/publications/0llldKKtn8Xb)
+ 📄 [Repository Evaluation Rubric](https://app.readytensor.ai/lessons/0llldKKtn8Xb)
 
 --DIVIDER--
 
@@ -167,7 +180,7 @@ To complete this project, you need to submit **two deliverables**:
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - Welcome & Orientation](https://app.readytensor.ai/publications/kwFKTldV27nA)
-[➡️ Next - What is Agentic AI](https://app.readytensor.ai/publications/g8QivAEShqgw)
+[⬅️ Previous - Welcome & Orientation](https://app.readytensor.ai/lessons/kwFKTldV27nA)
+[➡️ Next - What is Agentic AI](https://app.readytensor.ai/lessons/g8QivAEShqgw)
 
 ---

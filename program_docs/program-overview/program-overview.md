@@ -346,9 +346,9 @@ In addition to certificates, you’ll receive **four digital badges**—one for 
  
  Each project is designed to be a portfolio piece, showcasing your skills and understanding of agentic AI systems. You can find detailed descriptions here:
  
- - Module 1 Project: [Build a RAG-Powered AI App](https://app.readytensor.ai/publications/4n07ViGCey0l)
- - Module 2 Project: [Build a Multi-Agent System](https://app.readytensor.ai/publications/gUPu2RlgjzNy)
- - Module 3 Project: [Productionize Your Agentic System](https://app.readytensor.ai/publications/DSYotKAAvcxy)
+ - Module 1 Project: [Build a RAG-Powered AI App](https://app.readytensor.ai/lessons/4n07ViGCey0l)
+ - Module 2 Project: [Build a Multi-Agent System](https://app.readytensor.ai/lessons/gUPu2RlgjzNy)
+ - Module 3 Project: [Productionize Your Agentic System](https://app.readytensor.ai/lessons/DSYotKAAvcxy)
  
  <!-- RT_DIVIDER -->
  
@@ -377,6 +377,6 @@ In addition to certificates, you’ll receive **four digital badges**—one for 
  ---
  [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)  
  
- [➡️ Next - Welcome & Orientation](https://app.readytensor.ai/publications/kwFKTldV27nA) 
+ [➡️ Next - Welcome & Orientation](https://app.readytensor.ai/lessons/kwFKTldV27nA) 
  
  ---
