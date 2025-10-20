@@ -171,7 +171,7 @@ Create a short publication on the Ready Tensor platform that:
 - Follows best practices from our Technical Evaluation Rubric for the
   _Tool / App / Software Development_ category
 - Meets at least 70% of the listed criteria <br>
-  📄 [Publication: Technical Evaluation Rubric](https://app.readytensor.ai/lessons/WsaE5uxLBqnH)
+  📄 [Publication: Technical Evaluation Rubric](https://app.readytensor.ai/publications/WsaE5uxLBqnH)
 
 :::info{title="Note"}
 The rubric is general-purpose. You still need to meet project-specific expectations (e.g. use of multiple agents, orchestration, etc).
@@ -186,7 +186,7 @@ Submit a repo that:
 - Includes setup instructions and sample interactions
 - Meets the “Essential” level of our repo evaluation rubric
 - Satisfies at least 70% of the Essential criteria <br>
-  📄 [Repository Evaluation Rubric](https://app.readytensor.ai/lessons/0llldKKtn8Xb)
+  📄 [Repository Evaluation Rubric](https://app.readytensor.ai/publications/0llldKKtn8Xb)
 
 --DIVIDER--
 

@@ -170,9 +170,9 @@ For questions or technical support, reach out to the Ready Tensor team on Discor
 
 # 📚 Additional Resources
 
-- [Repository Best Practices Guide](https://app.readytensor.ai/lessons/0llldKKtn8Xb)
-- [Technical Publication Rubric](https://app.readytensor.ai/lessons/WsaE5uxLBqnH)
-- [Ready Tensor Publication Best Practices](https://app.readytensor.ai/lessons/SBgkOyUsP8qQ)
+- [Repository Best Practices Guide](https://app.readytensor.ai/publications/0llldKKtn8Xb)
+- [Technical Publication Rubric](https://app.readytensor.ai/publications/WsaE5uxLBqnH)
+- [Ready Tensor Publication Best Practices](https://app.readytensor.ai/publications/SBgkOyUsP8qQ)
 
 _Good luck_ with your Module 2 submission! We look forward to reviewing your innovative multi-agent system.
 

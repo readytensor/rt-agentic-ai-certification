@@ -155,7 +155,7 @@ Create a comprehensive publication on the Ready Tensor platform that:
 - Follows best practices from our Technical Evaluation Rubric for the **Tool / App / Software Development** category
 - Meets at least 80% of the listed criteria (higher bar for final project)
 
-📄 [Publication: Technical Evaluation Rubric](https://app.readytensor.ai/lessons/WsaE5uxLBqnH)
+📄 [Publication: Technical Evaluation Rubric](https://app.readytensor.ai/publications/WsaE5uxLBqnH)
 
 The rubric is general-purpose. You still need to meet project-specific expectations (e.g. comprehensive testing, security measures, UI implementation, etc).
 
@@ -170,7 +170,7 @@ Submit a repo that:
 - Meets the **"Professional"** level of our repo evaluation rubric
 - Satisfies at least 80% of the Professional criteria
 
-📄 [Repository Evaluation Rubric](https://app.readytensor.ai/lessons/0llldKKtn8Xb)
+📄 [Repository Evaluation Rubric](https://app.readytensor.ai/publications/0llldKKtn8Xb)
 
 ---
 

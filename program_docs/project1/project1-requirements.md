@@ -157,7 +157,7 @@ To complete this project, you need to submit **two deliverables**:
    _Tool / App / Software Development_ category
  - Meets at least **70% of the listed criteria**
  
- 📄 [Publication: Technical Evaluation Rubric](https://app.readytensor.ai/lessons/WsaE5uxLBqnH)
+ 📄 [Publication: Technical Evaluation Rubric](https://app.readytensor.ai/publications/WsaE5uxLBqnH)
  
  Check the document titled **Publication Evaluation Criteria Reference Guide.pdf** uploaded in this publication above.
  
@@ -172,7 +172,7 @@ To complete this project, you need to submit **two deliverables**:
  - Meets the **“Essential” level** of our repo evaluation rubric
  - Satisfies at least **70% of the Essential criteria**
  
- 📄 [Repository Evaluation Rubric](https://app.readytensor.ai/lessons/0llldKKtn8Xb)
+ 📄 [Repository Evaluation Rubric](https://app.readytensor.ai/publications/0llldKKtn8Xb)
 
 --DIVIDER--
 
